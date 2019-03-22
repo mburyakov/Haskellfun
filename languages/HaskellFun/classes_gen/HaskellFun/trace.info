@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<debug-info>
+<debug-info version="2">
   <root>
     <file name="Language.java">
-      <unit at="22,0,70,0" name="HaskellFun.Language" />
+      <unit at="26,0,101,0" name="HaskellFun.Language" />
     </file>
   </root>
 </debug-info>

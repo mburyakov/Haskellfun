@@ -4,10 +4,10 @@
   <languages>
     <use id="70eb8650-b187-4f45-9958-03d27f5d94ba" name="HaskellFun" version="-1" />
     <use id="ceab5195-25ea-4f22-9b92-103b95ca8c0c" name="jetbrains.mps.lang.core" version="-1" />
-    <use id="f3061a53-9226-4cc5-a443-f952ceaf5816" name="jetbrains.mps.baseLanguage" version="1" />
+    <use id="f3061a53-9226-4cc5-a443-f952ceaf5816" name="jetbrains.mps.baseLanguage" version="5" />
   </languages>
   <imports>
-    <import index="e2lb" ref="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.lang(JDK/java.lang@java_stub)" implicit="true" />
+    <import index="wyt6" ref="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.lang(JDK/)" implicit="true" />
   </imports>
   <registry>
     <language id="f3061a53-9226-4cc5-a443-f952ceaf5816" name="jetbrains.mps.baseLanguage">
@@ -91,10 +91,10 @@
       <node concept="106S6S" id="$j$Dh98Ml$" role="106S6V">
         <property role="TrG5h" value="Point" />
         <node concept="3uibUv" id="$j$Dh98MnK" role="1072nj">
-          <ref role="3uigEE" to="e2lb:~Integer" resolve="Integer" />
+          <ref role="3uigEE" to="wyt6:~Integer" resolve="Integer" />
         </node>
         <node concept="3uibUv" id="$j$Dh98Mm$" role="1072nj">
-          <ref role="3uigEE" to="e2lb:~Integer" resolve="Integer" />
+          <ref role="3uigEE" to="wyt6:~Integer" resolve="Integer" />
         </node>
       </node>
     </node>
@@ -112,29 +112,29 @@
         <node concept="10136Z" id="$j$Dh97CGE" role="1013vE">
           <property role="TrG5h" value="radius" />
           <node concept="3uibUv" id="$j$Dh97CGM" role="10137n">
-            <ref role="3uigEE" to="e2lb:~Integer" resolve="Integer" />
+            <ref role="3uigEE" to="wyt6:~Integer" resolve="Integer" />
           </node>
         </node>
         <node concept="10136Z" id="$j$Dh97CGU" role="1013vE">
           <property role="TrG5h" value="weight" />
           <node concept="3uibUv" id="$j$Dh97CH4" role="10137n">
-            <ref role="3uigEE" to="e2lb:~Float" resolve="Float" />
+            <ref role="3uigEE" to="wyt6:~Float" resolve="Float" />
           </node>
         </node>
       </node>
       <node concept="106S6S" id="$j$Dh93VpP" role="106S6V">
         <property role="TrG5h" value="Rectangle" />
         <node concept="3uibUv" id="$j$Dh98Du$" role="1072nj">
-          <ref role="3uigEE" to="e2lb:~Integer" resolve="Integer" />
+          <ref role="3uigEE" to="wyt6:~Integer" resolve="Integer" />
         </node>
         <node concept="3uibUv" id="$j$Dh98DuM" role="1072nj">
-          <ref role="3uigEE" to="e2lb:~Integer" resolve="Integer" />
+          <ref role="3uigEE" to="wyt6:~Integer" resolve="Integer" />
         </node>
         <node concept="3uibUv" id="$j$Dh98Dv1" role="1072nj">
-          <ref role="3uigEE" to="e2lb:~Integer" resolve="Integer" />
+          <ref role="3uigEE" to="wyt6:~Integer" resolve="Integer" />
         </node>
         <node concept="3uibUv" id="$j$Dh98Dvj" role="1072nj">
-          <ref role="3uigEE" to="e2lb:~Integer" resolve="Integer" />
+          <ref role="3uigEE" to="wyt6:~Integer" resolve="Integer" />
         </node>
       </node>
       <node concept="106S6S" id="$j$Dh93VrB" role="106S6V">
@@ -149,26 +149,26 @@
         <node concept="10136Z" id="$j$Dh97sRR" role="1013vE">
           <property role="TrG5h" value="a" />
           <node concept="3uibUv" id="$j$Dh97sRQ" role="10137n">
-            <ref role="3uigEE" to="e2lb:~Float" resolve="Float" />
+            <ref role="3uigEE" to="wyt6:~Float" resolve="Float" />
           </node>
         </node>
         <node concept="10136Z" id="$j$Dh97sS8" role="1013vE">
           <property role="TrG5h" value="b" />
           <node concept="3uibUv" id="$j$Dh97sSe" role="10137n">
-            <ref role="3uigEE" to="e2lb:~Integer" resolve="Integer" />
+            <ref role="3uigEE" to="wyt6:~Integer" resolve="Integer" />
           </node>
         </node>
       </node>
       <node concept="106S6S" id="$j$Dh9720P" role="106S6V">
         <property role="TrG5h" value="Foo" />
         <node concept="3uibUv" id="7Hft0QLDM3O" role="1072nj">
-          <ref role="3uigEE" to="e2lb:~Double" resolve="Double" />
+          <ref role="3uigEE" to="wyt6:~Double" resolve="Double" />
         </node>
         <node concept="3uibUv" id="$j$Dh9720U" role="1072nj">
-          <ref role="3uigEE" to="e2lb:~Float" resolve="Float" />
+          <ref role="3uigEE" to="wyt6:~Float" resolve="Float" />
         </node>
         <node concept="3uibUv" id="$j$Dh9720W" role="1072nj">
-          <ref role="3uigEE" to="e2lb:~Integer" resolve="Integer" />
+          <ref role="3uigEE" to="wyt6:~Integer" resolve="Integer" />
         </node>
       </node>
     </node>
@@ -193,10 +193,10 @@
         <node concept="10cbh9" id="$j$Dh9aADR" role="1072nj">
           <ref role="10cbms" node="$j$Dh9aAAw" resolve="A" />
           <node concept="3uibUv" id="$j$Dh9aBF4" role="10c1R6">
-            <ref role="3uigEE" to="e2lb:~Integer" resolve="Integer" />
+            <ref role="3uigEE" to="wyt6:~Integer" resolve="Integer" />
           </node>
           <node concept="3uibUv" id="$j$Dh9aBFk" role="10c1R6">
-            <ref role="3uigEE" to="e2lb:~Float" resolve="Float" />
+            <ref role="3uigEE" to="wyt6:~Float" resolve="Float" />
           </node>
         </node>
       </node>

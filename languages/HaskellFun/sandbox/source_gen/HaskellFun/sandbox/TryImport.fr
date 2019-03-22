@@ -1,2 +1,6 @@
 module TryImport where
 
+<!TextGen not found for 'HaskellFun.structure.Import'!>
+main args = do
+  println greeting
+
