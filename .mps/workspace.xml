@@ -7,355 +7,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82d2034e-ef27-461b-8855-3b4269c8fa16" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/behavior/AbstractConstructor__BehaviorDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/behavior/AlgebraicDataType__BehaviorDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/behavior/ConstructorRecord__BehaviorDescriptor$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/behavior/ConstructorRecord__BehaviorDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/behavior/Constructor__BehaviorDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/behavior/DataType__BehaviorDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/constraints/Import_Constraints$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/AlgebraicDataTypeDeclarations_ext_1$TMP_Action_i2q3jt_a0$Item.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/AlgebraicDataTypeDeclarations_ext_1$TMP_Action_i2q3jt_a0.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/AlgebraicDataTypeDeclarations_ext_1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/AlgebraicDataType_ApplySideTransforms$TMP_Include_o8h7bt_a0.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/AlgebraicDataType_ApplySideTransforms$TMP_Include_o8h7bt_a1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/AlgebraicDataType_ApplySideTransforms.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/AlgebraicDataType_ApplySideTransforms_1$TMP_Include_rouor6_a0.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/AlgebraicDataType_ApplySideTransforms_1$TMP_Include_rouor6_a1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/AlgebraicDataType_ApplySideTransforms_1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/AlgebraicDataType_EditorBuilder_a$constructoreListHandler_5p42xf_f0.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/AlgebraicDataType_EditorBuilder_a$declarationsListHandler_5p42xf_i0.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/AlgebraicDataType_EditorBuilder_a$typeVarsListHandler_5p42xf_d0.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/AlgebraicDataType_EditorBuilder_a.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/AlgebraicDataType_TransformationMenu$TMP_Action_q52bts_a2$Item.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/AlgebraicDataType_TransformationMenu$TMP_Action_q52bts_a2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/AlgebraicDataType_TransformationMenu$TMP_Group_q52bts_a1$TMP_Action_q52bts_a0b$Item.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/AlgebraicDataType_TransformationMenu$TMP_Group_q52bts_a1$TMP_Action_q52bts_a0b.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/AlgebraicDataType_TransformationMenu$TMP_Group_q52bts_a1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/AlgebraicDataType_TransformationMenu.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/ConstructorRecord_EditorBuilder_a$entriesListHandler_k5q3ls_c0.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/ConstructorRecord_EditorBuilder_a.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/Constructor_ApplySideTransforms$TMP_Include_vfw4rn_a0.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/Constructor_ApplySideTransforms$TMP_Include_vfw4rn_a1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/Constructor_ApplySideTransforms.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/Constructor_EditorBuilder_a$typesListHandler_ph8r7t_b0.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/Constructor_EditorBuilder_a.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/Constructor_TransformationMenu$TMP_Action_4lsuvq_a1$Item.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/Constructor_TransformationMenu$TMP_Action_4lsuvq_a1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/Constructor_TransformationMenu$TMP_Action_4lsuvq_b1$Item.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/Constructor_TransformationMenu$TMP_Action_4lsuvq_b1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/Constructor_TransformationMenu.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/DataType_EditorBuilder_a$1$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/DataType_EditorBuilder_a$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/DataType_EditorBuilder_a$Inline_Builder_pq0nb8_a1a$ReplaceWith_Type_cellMenu_pq0nb8_a0a0b0.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/DataType_EditorBuilder_a$Inline_Builder_pq0nb8_a1a.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/DataType_EditorBuilder_a$typeParametersListHandler_pq0nb8_c0.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/DataType_EditorBuilder_a.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/DeclarationParameter_EditorBuilder_a.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/DeclarationParameter_TransformationMenu$TMP_Action_twt5ks_a1$Item.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/DeclarationParameter_TransformationMenu$TMP_Action_twt5ks_a1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/DeclarationParameter_TransformationMenu.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/DeclarationReference_EditorBuilder_a$1$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/DeclarationReference_EditorBuilder_a$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/DeclarationReference_EditorBuilder_a$Inline_Builder_qqwn5p_a0a.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/DeclarationReference_EditorBuilder_a.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/Declaration_ApplySideTransforms$TMP_Include_cepfqb_a0.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/Declaration_ApplySideTransforms$TMP_Include_cepfqb_a1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/Declaration_ApplySideTransforms.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/Declaration_EditorBuilder_a$parametersListHandler_kvmsqx_b0.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/Declaration_EditorBuilder_a$valueSingleRoleHandler_kvmsqx_d0.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/Declaration_EditorBuilder_a.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/Declaration_TransformationMenu$TMP_Action_av5t3q_a1$Item.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/Declaration_TransformationMenu$TMP_Action_av5t3q_a1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/Declaration_TransformationMenu.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/DoExpression_EditorBuilder_a$expressionsListHandler_w7551w_b0.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/DoExpression_EditorBuilder_a.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/EmptyLine_EditorBuilder_a$ReplaceWith_Form_cellMenu_s23fc5_a0a.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/EmptyLine_EditorBuilder_a.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/EmptyLine_SubstituteMenu$SMP_Action_udt3cr_a$Item.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/EmptyLine_SubstituteMenu$SMP_Action_udt3cr_a.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/EmptyLine_SubstituteMenu.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/HaskellModule_EditorBuilder_a$bodyListHandler_svwbdy_d0.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/HaskellModule_EditorBuilder_a.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/Import_EditorBuilder_a$1$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/Import_EditorBuilder_a$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/Import_EditorBuilder_a$Inline_Builder_jvmgtf_a1a.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/Import_EditorBuilder_a.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/Println_EditorBuilder_a$messageSingleRoleHandler_woisn2_b0.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/Println_EditorBuilder_a.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/RecordEntry_EditorBuilder_a$typeSingleRoleHandler_pb870l_c0.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/RecordEntry_EditorBuilder_a.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/TypeVariable_EditorBuilder_a.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/structure/ConceptPresentationAspectImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/structure/LanguageConceptSwitch.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/textGen/TextGenAspectDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/typesystem/TypesystemDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/behavior/AbstractConstructor__BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/behavior/AlgebraicDataType__BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/behavior/ConstructorRecord__BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/behavior/Constructor__BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/behavior/DataType__BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/AlgebraicDataTypeDeclarations_ext_1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/AlgebraicDataType_ApplySideTransforms.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/AlgebraicDataType_ApplySideTransforms_1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/AlgebraicDataType_EditorBuilder_a.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/AlgebraicDataType_TransformationMenu.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/ConstructorRecord_EditorBuilder_a.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/Constructor_ApplySideTransforms.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/Constructor_EditorBuilder_a.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/Constructor_TransformationMenu.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/DataType_EditorBuilder_a.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/DeclarationParameter_EditorBuilder_a.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/DeclarationParameter_TransformationMenu.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/DeclarationReference_EditorBuilder_a.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/Declaration_ApplySideTransforms.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/Declaration_EditorBuilder_a.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/Declaration_TransformationMenu.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/DoExpression_EditorBuilder_a.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/EmptyLine_EditorBuilder_a.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/EmptyLine_SubstituteMenu.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/HaskellModule_EditorBuilder_a.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/Import_EditorBuilder_a.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/Println_EditorBuilder_a.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/RecordEntry_EditorBuilder_a.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/TypeVariable_EditorBuilder_a.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/structure/ConceptPresentationAspectImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/structure/LanguageConceptSwitch.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/textGen/TextGenAspectDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/typesystem/TypesystemDescriptor.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/actions/QueriesGenerated$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/actions/QueriesGenerated$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/actions/QueriesGenerated$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/actions/QueriesGenerated$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/actions/QueriesGenerated$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/actions/QueriesGenerated$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/actions/QueriesGenerated$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/actions/QueriesGenerated$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/behavior/AbstractConstructor_Behavior.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/behavior/AbstractConstructor_BehaviorDescriptor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/behavior/AlgebraicDataType_Behavior.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/behavior/AlgebraicDataType_BehaviorDescriptor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/behavior/ConstructorRecord_Behavior$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/behavior/ConstructorRecord_Behavior.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/behavior/ConstructorRecord_BehaviorDescriptor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/behavior/Constructor_Behavior.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/behavior/Constructor_BehaviorDescriptor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/behavior/DataType_Behavior.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/behavior/DataType_BehaviorDescriptor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/behavior/DeclarationParameter_BehaviorDescriptor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/behavior/DeclarationReference_BehaviorDescriptor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/behavior/Declaration_BehaviorDescriptor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/behavior/DoExpression_BehaviorDescriptor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/behavior/EmptyLine_BehaviorDescriptor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/behavior/Form_BehaviorDescriptor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/behavior/HaskellExpression_BehaviorDescriptor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/behavior/HaskellModule_BehaviorDescriptor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/behavior/Import_BehaviorDescriptor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/behavior/Println_BehaviorDescriptor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/behavior/RecordEntry_BehaviorDescriptor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/behavior/TypeVariable_BehaviorDescriptor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/AlgebraicDataType_Editor$ApplySideTransforms_null_cellMenu_5p42xf_a0c0.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/AlgebraicDataType_Editor$ApplySideTransforms_null_cellMenu_5p42xf_a0g0.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/AlgebraicDataType_Editor$constructoreListHandler_5p42xf_f0.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/AlgebraicDataType_Editor$declarationsListHandler_5p42xf_i0.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/AlgebraicDataType_Editor$typeVarsListHandler_5p42xf_d0.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/ConstructorRecord_Editor$entriesListHandler_k5q3ls_c0.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/Constructor_Editor$ApplySideTransforms_null_cellMenu_ph8r7t_a0a0.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/Constructor_Editor$typesListHandler_ph8r7t_b0.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/DataType_Editor$_Inline_pq0nb8_a1a$ReplaceWith_Type_cellMenu_pq0nb8_a0a0b0.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/DataType_Editor$_Inline_pq0nb8_a1a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/DataType_Editor$typeParametersListHandler_pq0nb8_c0.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/DeclarationReference_Editor$_Inline_qqwn5p_a0a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/Declaration_Editor$ApplySideTransforms_null_cellMenu_kvmsqx_a0a0.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/Declaration_Editor$parametersListHandler_kvmsqx_b0.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/HaskellModule_Editor$bodyListHandler_svwbdy_d0.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/Import_Editor$_Inline_jvmgtf_a1a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/behavior/AbstractConstructor_Behavior.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/behavior/AbstractConstructor_BehaviorDescriptor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/behavior/AlgebraicDataType_Behavior.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/behavior/AlgebraicDataType_BehaviorDescriptor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/behavior/ConstructorRecord_Behavior.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/behavior/ConstructorRecord_BehaviorDescriptor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/behavior/Constructor_Behavior.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/behavior/Constructor_BehaviorDescriptor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/behavior/DataType_Behavior.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/behavior/DataType_BehaviorDescriptor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/behavior/DeclarationParameter_BehaviorDescriptor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/behavior/DeclarationReference_BehaviorDescriptor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/behavior/Declaration_BehaviorDescriptor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/behavior/DoExpression_BehaviorDescriptor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/behavior/EmptyLine_BehaviorDescriptor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/behavior/Form_BehaviorDescriptor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/behavior/HaskellExpression_BehaviorDescriptor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/behavior/HaskellModule_BehaviorDescriptor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/behavior/Import_BehaviorDescriptor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/behavior/Println_BehaviorDescriptor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/behavior/RecordEntry_BehaviorDescriptor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/behavior/TypeVariable_BehaviorDescriptor.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/Language.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/Language.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/actions/ActionAspectDescriptorImpl.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/actions/ActionAspectDescriptorImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/actions/ConstructorConversions$NodeFactory_654027536478002842$1.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/actions/ConstructorConversions$NodeFactory_654027536478002842$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/actions/ConstructorConversions$NodeFactory_654027536478002842.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/actions/ConstructorConversions$NodeFactory_654027536478002842.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/actions/ConstructorConversions$NodeFactory_654027536478070463$1.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/actions/ConstructorConversions$NodeFactory_654027536478070463$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/actions/ConstructorConversions$NodeFactory_654027536478070463.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/actions/ConstructorConversions$NodeFactory_654027536478070463.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/actions/ConstructorConversions.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/actions/ConstructorConversions.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/actions/QueriesGenerated.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/actions/QueriesGenerated.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/behavior/BehaviorAspectDescriptor.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/behavior/BehaviorAspectDescriptor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/constraints/ConstraintsAspectDescriptor.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/constraints/ConstraintsAspectDescriptor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/constraints/Import_Constraints.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/constraints/Import_Constraints.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/AlgebraicDataType_Editor.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/AlgebraicDataType_Editor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/ConstructorRecordIntoConstructor$ConstructorRecordIntoConstructor_BACKSPACE.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/ConstructorRecordIntoConstructor$ConstructorRecordIntoConstructor_BACKSPACE.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/ConstructorRecordIntoConstructor$ConstructorRecordIntoConstructor_DELETE.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/ConstructorRecordIntoConstructor$ConstructorRecordIntoConstructor_DELETE.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/ConstructorRecordIntoConstructor.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/ConstructorRecordIntoConstructor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/ConstructorRecord_Editor.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/ConstructorRecord_Editor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/Constructor_Editor.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/Constructor_Editor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/DataType_Editor.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/DataType_Editor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/DeclarationParameter_Editor.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/DeclarationParameter_Editor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/DeclarationReference_Editor.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/DeclarationReference_Editor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/Declaration_Editor.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/Declaration_Editor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/DeleteAbstractInADT$DeleteAbstractInADT_BACKSPACE.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/DeleteAbstractInADT$DeleteAbstractInADT_BACKSPACE.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/DeleteAbstractInADT$DeleteAbstractInADT_DELETE.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/DeleteAbstractInADT$DeleteAbstractInADT_DELETE.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/DeleteAbstractInADT.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/DeleteAbstractInADT.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/DoExpression_Editor$expressionsListHandler_w7551w_b0.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/DoExpression_Editor$expressionsListHandler_w7551w_b0.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/DoExpression_Editor.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/DoExpression_Editor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/EditorAspectDescriptorImpl.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/EditorAspectDescriptorImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/EmptyLine_Editor$ReplaceWith_Form_cellMenu_s23fc5_a0a.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/EmptyLine_Editor$ReplaceWith_Form_cellMenu_s23fc5_a0a.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/EmptyLine_Editor.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/EmptyLine_Editor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/HaskellModule_Editor.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/HaskellModule_Editor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/Import_Editor.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/Import_Editor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/Println_Editor.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/Println_Editor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/RecordEntry_Editor.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/RecordEntry_Editor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/TypeVariable_Editor.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/TypeVariable_Editor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/structure/StructureAspectDescriptor.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/structure/StructureAspectDescriptor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/textGen/DeclarationParameter_TextGen.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/textGen/DeclarationParameter_TextGen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/textGen/DeclarationReference_TextGen.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/textGen/DeclarationReference_TextGen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/textGen/Declaration_TextGen.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/textGen/Declaration_TextGen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/textGen/DoExpression_TextGen.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/textGen/DoExpression_TextGen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/textGen/EmptyLine_TextGen.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/textGen/EmptyLine_TextGen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/textGen/HaskellModule_TextGen.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/textGen/HaskellModule_TextGen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/textGen/Println_TextGen.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/textGen/Println_TextGen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/generator/classes_gen/HaskellFun/generator/template/main/QueriesGenerated.class" afterPath="$PROJECT_DIR$/languages/HaskellFun/generator/classes_gen/HaskellFun/generator/template/main/QueriesGenerated.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.mps/migration.xml" afterPath="$PROJECT_DIR$/.mps/migration.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.mps/misc.xml" afterPath="$PROJECT_DIR$/.mps/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.mps/workspace.xml" afterPath="$PROJECT_DIR$/.mps/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/HaskellFun.mpl" afterPath="$PROJECT_DIR$/languages/HaskellFun/HaskellFun.mpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/actions/trace.info" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/actions/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/behavior/trace.info" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/behavior/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/constraints/trace.info" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/constraints/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/trace.info" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/editor/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/structure/trace.info" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/structure/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/textGen/trace.info" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/textGen/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/trace.info" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/typesystem/trace.info" afterPath="$PROJECT_DIR$/languages/HaskellFun/classes_gen/HaskellFun/typesystem/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/generator/classes_gen/HaskellFun/generator/template/main/trace.info" afterPath="$PROJECT_DIR$/languages/HaskellFun/generator/classes_gen/HaskellFun/generator/template/main/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/generator/source_gen/HaskellFun/generator/template/main/QueriesGenerated.java" afterPath="$PROJECT_DIR$/languages/HaskellFun/generator/source_gen/HaskellFun/generator/template/main/QueriesGenerated.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/generator/source_gen/HaskellFun/generator/template/main/trace.info" afterPath="$PROJECT_DIR$/languages/HaskellFun/generator/source_gen/HaskellFun/generator/template/main/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/languageModels/actions.mps" afterPath="$PROJECT_DIR$/languages/HaskellFun/languageModels/actions.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/languageModels/behavior.mps" afterPath="$PROJECT_DIR$/languages/HaskellFun/languageModels/behavior.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/languageModels/constraints.mps" afterPath="$PROJECT_DIR$/languages/HaskellFun/languageModels/constraints.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/languageModels/editor.mps" afterPath="$PROJECT_DIR$/languages/HaskellFun/languageModels/editor.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/languageModels/structure.mps" afterPath="$PROJECT_DIR$/languages/HaskellFun/languageModels/structure.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/sandbox/HaskellFun.sandbox.msd" afterPath="$PROJECT_DIR$/languages/HaskellFun/sandbox/HaskellFun.sandbox.msd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/sandbox/classes_gen/HaskellFun/sandbox/Demo.fr" afterPath="$PROJECT_DIR$/languages/HaskellFun/sandbox/classes_gen/HaskellFun/sandbox/Demo.fr" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/sandbox/classes_gen/HaskellFun/sandbox/Hello.fr" afterPath="$PROJECT_DIR$/languages/HaskellFun/sandbox/classes_gen/HaskellFun/sandbox/Hello.fr" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/sandbox/classes_gen/HaskellFun/sandbox/TryImport.fr" afterPath="$PROJECT_DIR$/languages/HaskellFun/sandbox/classes_gen/HaskellFun/sandbox/TryImport.fr" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/sandbox/classes_gen/HaskellFun/sandbox/trace.info" afterPath="$PROJECT_DIR$/languages/HaskellFun/sandbox/classes_gen/HaskellFun/sandbox/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/sandbox/models/HaskellFun/sandbox.mps" afterPath="$PROJECT_DIR$/languages/HaskellFun/sandbox/models/HaskellFun/sandbox.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/sandbox/source_gen.caches/HaskellFun/sandbox/dependencies" afterPath="$PROJECT_DIR$/languages/HaskellFun/sandbox/source_gen.caches/HaskellFun/sandbox/dependencies" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/sandbox/source_gen.caches/HaskellFun/sandbox/generated" afterPath="$PROJECT_DIR$/languages/HaskellFun/sandbox/source_gen.caches/HaskellFun/sandbox/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/sandbox/source_gen/HaskellFun/sandbox/Demo.fr" afterPath="$PROJECT_DIR$/languages/HaskellFun/sandbox/source_gen/HaskellFun/sandbox/Demo.fr" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/sandbox/source_gen/HaskellFun/sandbox/Hello.fr" afterPath="$PROJECT_DIR$/languages/HaskellFun/sandbox/source_gen/HaskellFun/sandbox/Hello.fr" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/sandbox/source_gen/HaskellFun/sandbox/TryImport.fr" afterPath="$PROJECT_DIR$/languages/HaskellFun/sandbox/source_gen/HaskellFun/sandbox/TryImport.fr" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/sandbox/source_gen/HaskellFun/sandbox/trace.info" afterPath="$PROJECT_DIR$/languages/HaskellFun/sandbox/source_gen/HaskellFun/sandbox/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen.caches/HaskellFun/actions/dependencies" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen.caches/HaskellFun/actions/dependencies" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen.caches/HaskellFun/actions/generated" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen.caches/HaskellFun/actions/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen.caches/HaskellFun/behavior/dependencies" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen.caches/HaskellFun/behavior/dependencies" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen.caches/HaskellFun/behavior/generated" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen.caches/HaskellFun/behavior/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen.caches/HaskellFun/constraints/dependencies" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen.caches/HaskellFun/constraints/dependencies" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen.caches/HaskellFun/constraints/generated" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen.caches/HaskellFun/constraints/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen.caches/HaskellFun/dependencies" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen.caches/HaskellFun/dependencies" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen.caches/HaskellFun/editor/dependencies" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen.caches/HaskellFun/editor/dependencies" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen.caches/HaskellFun/editor/generated" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen.caches/HaskellFun/editor/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen.caches/HaskellFun/generated" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen.caches/HaskellFun/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen.caches/HaskellFun/structure/dependencies" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen.caches/HaskellFun/structure/dependencies" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen.caches/HaskellFun/structure/generated" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen.caches/HaskellFun/structure/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen.caches/HaskellFun/textGen/dependencies" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen.caches/HaskellFun/textGen/dependencies" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen.caches/HaskellFun/typesystem/dependencies" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen.caches/HaskellFun/typesystem/dependencies" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/Language.java" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/Language.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/actions/ActionAspectDescriptorImpl.java" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/actions/ActionAspectDescriptorImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/actions/QueriesGenerated.java" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/actions/QueriesGenerated.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/actions/trace.info" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/actions/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/behavior/BehaviorAspectDescriptor.java" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/behavior/BehaviorAspectDescriptor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/behavior/trace.info" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/behavior/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/constraints/ConstraintsAspectDescriptor.java" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/constraints/ConstraintsAspectDescriptor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/constraints/Import_Constraints.java" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/constraints/Import_Constraints.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/constraints/trace.info" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/constraints/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/AlgebraicDataType_Editor.java" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/AlgebraicDataType_Editor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/ConstructorRecord_Editor.java" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/ConstructorRecord_Editor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/Constructor_Editor.java" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/Constructor_Editor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/DataType_Editor.java" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/DataType_Editor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/DeclarationParameter_Editor.java" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/DeclarationParameter_Editor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/DeclarationReference_Editor.java" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/DeclarationReference_Editor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/Declaration_Editor.java" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/Declaration_Editor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/DoExpression_Editor.java" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/DoExpression_Editor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/EditorAspectDescriptorImpl.java" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/EditorAspectDescriptorImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/EmptyLine_Editor.java" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/EmptyLine_Editor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/HaskellModule_Editor.java" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/HaskellModule_Editor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/Import_Editor.java" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/Import_Editor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/Println_Editor.java" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/Println_Editor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/RecordEntry_Editor.java" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/RecordEntry_Editor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/TypeVariable_Editor.java" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/TypeVariable_Editor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/trace.info" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/editor/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/structure/StructureAspectDescriptor.java" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/structure/StructureAspectDescriptor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/structure/trace.info" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/structure/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/textGen/DeclarationParameter_TextGen.java" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/textGen/DeclarationParameter_TextGen.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/textGen/DeclarationReference_TextGen.java" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/textGen/DeclarationReference_TextGen.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/textGen/Declaration_TextGen.java" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/textGen/Declaration_TextGen.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/textGen/DoExpression_TextGen.java" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/textGen/DoExpression_TextGen.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/textGen/EmptyLine_TextGen.java" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/textGen/EmptyLine_TextGen.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/textGen/HaskellModule_TextGen.java" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/textGen/HaskellModule_TextGen.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/textGen/Println_TextGen.java" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/textGen/Println_TextGen.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/textGen/trace.info" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/textGen/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/trace.info" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/typesystem/trace.info" afterPath="$PROJECT_DIR$/languages/HaskellFun/source_gen/HaskellFun/typesystem/trace.info" />
+      <change beforePath="$PROJECT_DIR$/.mps/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.mps/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/HaskellFun/HaskellFun.mpl" beforeDir="false" afterPath="$PROJECT_DIR$/languages/HaskellFun/HaskellFun.mpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/HaskellFun/generator/template/main@generator.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/HaskellFun/generator/template/main@generator.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/HaskellFun/languageModels/actions.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/HaskellFun/languageModels/actions.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/HaskellFun/languageModels/behavior.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/HaskellFun/languageModels/behavior.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/HaskellFun/languageModels/constraints.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/HaskellFun/languageModels/constraints.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/HaskellFun/languageModels/editor.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/HaskellFun/languageModels/editor.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/HaskellFun/languageModels/structure.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/HaskellFun/languageModels/structure.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/HaskellFun/languageModels/textGen.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/HaskellFun/languageModels/textGen.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/HaskellFun/languageModels/typesystem.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/HaskellFun/languageModels/typesystem.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/HaskellFun/sandbox/HaskellFun.sandbox.msd" beforeDir="false" afterPath="$PROJECT_DIR$/languages/HaskellFun/sandbox/HaskellFun.sandbox.msd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/HaskellFun/sandbox/models/HaskellFun/sandbox.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/HaskellFun/sandbox/models/HaskellFun/sandbox.mps" afterDir="false" />
     </list>
     <ignored path="Haskellfun.iws" />
     <ignored path=".mps/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="false" />
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
+  </component>
   <component name="ConsoleHistory">
     <option name="tabs">
       <list>
         <TabState>
           <option name="title" value="Console" />
           <tab>
-            <model ref="c9886461-70ee-4778-8d33-502790737999/r:efcf635a-72a5-4642-9976-56730e1be00e(TempModulec9886461-70ee-4778-8d33-502790737999/TempModel_607737316250822)">
+            <model ref="7c71a3e9-9560-44a8-b6b5-5290520505d4/r:82f999ed-03c1-41db-9d5c-c1a0670e4393(TempModule7c71a3e9-9560-44a8-b6b5-5290520505d4/TempModel_758815644174043)">
               <persistence version="9" />
               <languages>
-                <use id="de1ad86d-6e50-4a02-b306-d4d17f64c375" name="jetbrains.mps.console.base" version="0" />
-                <use id="a5e4de53-46a3-44da-aab3-68fdf1c34ed0" name="jetbrains.mps.console.ideCommands" version="1" />
-                <use id="995a7394-7f76-4b8b-a929-c53448708106" name="jetbrains.mps.console.internalCommands" version="0" />
-                <use id="f26691d2-0def-4c06-aec6-2cb90c4af0a4" name="jetbrains.mps.console.scripts" version="0" />
-                <devkit ref="fbc25dd2-5da4-483a-8b19-70928e1b62d7(jetbrains.mps.devkit.general-purpose)" />
+                <devkit ref="70d3d6da-af63-483d-a75f-9c8acf8de332(jetbrains.mps.console.devkit)" />
               </languages>
-              <imports>
-                <import index="eynw" ref="r:359b1d2b-77c4-46df-9bf2-b25cbea32254(jetbrains.mps.console.base.structure)" />
-                <import index="caxt" ref="r:135a606f-0376-4c5c-9ab8-4030f051a062(jetbrains.mps.console.ideCommands.structure)" />
-                <import index="wns9" ref="r:90445206-a973-4c1d-b760-30e5c77b7497(jetbrains.mps.console.internalCommands.structure)" />
-                <import index="z2sp" ref="r:e712f353-5c3c-4288-adce-87c956a52ffb(jetbrains.mps.console.scripts.structure)" />
-              </imports>
+              <imports />
               <registry>
-                <language id="ceab5195-25ea-4f22-9b92-103b95ca8c0c" name="jetbrains.mps.lang.core">
-                  <concept id="1169194658468" name="jetbrains.mps.lang.core.structure.INamedConcept" flags="ng" index="TrEIO">
-                    <property id="1169194664001" name="name" index="TrG5h" />
-                  </concept>
-                </language>
                 <language id="de1ad86d-6e50-4a02-b306-d4d17f64c375" name="jetbrains.mps.console.base">
                   <concept id="1583916890557930028" name="jetbrains.mps.console.base.structure.ConsoleRoot" flags="ng" index="aymSD">
                     <child id="1583916890557930415" name="history" index="aymYE" />
@@ -369,13 +60,11 @@
                   <concept id="757553790980850366" name="jetbrains.mps.console.base.structure.History" flags="ng" index="3balQm" />
                 </language>
               </registry>
-              <node concept="aymSD" id="1i5WNy6Nj4R">
-                <node concept="3balQm" id="1i5WNy6Nj4S" role="aymYE" />
-                <node concept="2Clz$F" id="1i5WNy6Nj4T" role="aymYO">
-                  <property role="TrG5h" value="CommandHolder" />
-                </node>
-                <node concept="2_V_lH" id="1i5WNy6Nj4U" role="1PhJh3">
-                  <ref role="2_V_lI" node="1i5WNy6Nj4T" resolve="CommandHolder" />
+              <node concept="aymSD" id="5NEn4Lfitdj">
+                <node concept="3balQm" id="5NEn4Lfitdk" role="aymYE" />
+                <node concept="2Clz$F" id="5NEn4Lfitdl" role="aymYO" />
+                <node concept="2_V_lH" id="5NEn4Lfitdm" role="1PhJh3">
+                  <ref role="2_V_lI" node="5NEn4Lfitdl" resolve="CommandHolder" />
                 </node>
               </node>
             </model>
@@ -413,23 +102,15 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Demo" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="mps://node://HaskellFun.sandbox/HaskellFun.sandbox/Demo">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
               <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="71" />
-                    <property name="caretXRelative" value="0" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                      <node node_reference="r:a870ae4c-5856-4f27-ba29-894084d4c696(HaskellFun.sandbox)/8920266709876824314" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
+                <selectionStack />
+                <errorMarkers>
+                  <errorMarker text="" propertyCell="false" cellNumber="0" />
+                </errorMarkers>
                 <transactionalProperties />
                 <foldable />
                 <restoreAlways />
@@ -446,23 +127,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Hello" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="true">
         <entry file="mps://node://HaskellFun.sandbox/HaskellFun.sandbox/Hello">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
               <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="47" />
-                    <property name="caretXRelative" value="16" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="ALIAS_EDITOR_COMPONENT" cellNumber="0" isInList="false">
-                      <node node_reference="r:a870ae4c-5856-4f27-ba29-894084d4c696(HaskellFun.sandbox)/3625473111732410859" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
+                <selectionStack />
+                <errorMarkers>
+                  <errorMarker text="" propertyCell="false" cellNumber="0" />
+                </errorMarkers>
                 <transactionalProperties />
                 <foldable />
                 <restoreAlways />
@@ -479,7 +152,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Println" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="mps://node://HaskellFun/HaskellFun.structure/Println">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
@@ -487,10 +160,10 @@
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="263" />
-                    <property name="caretXRelative" value="32" />
+                    <property name="caretX" value="315" />
+                    <property name="caretXRelative" value="30" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                    <cellInfo cellId="property_name">
                       <node node_reference="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111732402521" />
                     </cellInfo>
                   </stackElement>
@@ -513,7 +186,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Declaration" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="mps://node://HaskellFun/HaskellFun.structure/Declaration">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
@@ -521,10 +194,10 @@
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="71" />
-                    <property name="caretXRelative" value="56" />
+                    <property name="caretX" value="75" />
+                    <property name="caretXRelative" value="60" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                    <cellInfo cellId="Constant_ueqr71_c0a">
                       <node node_reference="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111731872103" />
                     </cellInfo>
                   </stackElement>
@@ -547,23 +220,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TryImport" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="mps://node://HaskellFun.sandbox/HaskellFun.sandbox/TryImport">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
               <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="71" />
-                    <property name="caretXRelative" value="0" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                      <node node_reference="r:a870ae4c-5856-4f27-ba29-894084d4c696(HaskellFun.sandbox)/2925734019484145055" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
+                <selectionStack />
+                <errorMarkers>
+                  <errorMarker text="" propertyCell="false" cellNumber="0" />
+                </errorMarkers>
                 <transactionalProperties />
                 <foldable />
                 <restoreAlways />
@@ -580,7 +245,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EmptyLine" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="mps://node://HaskellFun/HaskellFun.structure/EmptyLine">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
@@ -588,10 +253,10 @@
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="71" />
-                    <property name="caretXRelative" value="56" />
+                    <property name="caretX" value="75" />
+                    <property name="caretXRelative" value="60" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                    <cellInfo cellId="Constant_ueqr71_c0a">
                       <node node_reference="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111731833586" />
                     </cellInfo>
                   </stackElement>
@@ -614,7 +279,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Constructor" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="mps://node://HaskellFun/HaskellFun.structure/Constructor">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
@@ -622,10 +287,10 @@
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="71" />
-                    <property name="caretXRelative" value="56" />
+                    <property name="caretX" value="75" />
+                    <property name="caretXRelative" value="60" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                    <cellInfo cellId="Constant_ueqr71_c0a">
                       <node node_reference="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/654027536476934956" />
                     </cellInfo>
                   </stackElement>
@@ -648,7 +313,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConstructorRecord" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="mps://node://HaskellFun/HaskellFun.structure/ConstructorRecord">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
@@ -656,10 +321,10 @@
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="71" />
-                    <property name="caretXRelative" value="56" />
+                    <property name="caretX" value="75" />
+                    <property name="caretXRelative" value="60" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                    <cellInfo cellId="Constant_ueqr71_c0a">
                       <node node_reference="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/654027536477435677" />
                     </cellInfo>
                   </stackElement>
@@ -682,7 +347,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RecordEntry" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="mps://node://HaskellFun/HaskellFun.structure/RecordEntry">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
@@ -690,10 +355,10 @@
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="71" />
-                    <property name="caretXRelative" value="56" />
+                    <property name="caretX" value="75" />
+                    <property name="caretXRelative" value="60" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                    <cellInfo cellId="Constant_ueqr71_c0a">
                       <node node_reference="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/654027536477954859" />
                     </cellInfo>
                   </stackElement>
@@ -755,8 +420,8 @@
                   <option name="first" value="DclareMPSPlugin.plugin.DclarePreferences_PreferencesComponent" />
                   <params>
                     <option name="on" value="false" />
-                    <option name="maxNrOfChanges" value="0" />
-                    <option name="maxTotalNrOfChanges" value="0" />
+                    <option name="maxNrOfChanges" value="8" />
+                    <option name="maxTotalNrOfChanges" value="10000" />
                   </params>
                 </ComponentState>
               </list>
@@ -828,21 +493,10 @@
     <option name="STATE" value="1" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystem" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -850,12 +504,6 @@
               <option name="myItemId" value="Project" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="70eb8650-b187-4f45-9958-03d27f5d94ba(HaskellFun)" />
               <option name="myItemType" value="" />
@@ -864,28 +512,6 @@
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="f23164eb-7396-4025-946f-d34526bfbc17" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="70eb8650-b187-4f45-9958-03d27f5d94ba(HaskellFun)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure) in IdeaFile{file://C:/work/Haskellfun/languages/HaskellFun/languageModels/structure.mps}" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="form" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -903,21 +529,7 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="r:a870ae4c-5856-4f27-ba29-894084d4c696(HaskellFun.sandbox) in IdeaFile{file://C:/work/Haskellfun/languages/HaskellFun/sandbox/models/HaskellFun/sandbox.mps}" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="70eb8650-b187-4f45-9958-03d27f5d94ba(HaskellFun)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure) in IdeaFile{file://C:/work/Haskellfun/languages/HaskellFun/languageModels/structure.mps}" />
+              <option name="myItemId" value="r:a870ae4c-5856-4f27-ba29-894084d4c696(HaskellFun.sandbox) in IdeaFile[file://C:/work/Haskellfun/languages/HaskellFun/sandbox/models/HaskellFun/sandbox.mps]" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -935,31 +547,23 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
-          <SELECTED>
+          <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Project" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="70eb8650-b187-4f45-9958-03d27f5d94ba(HaskellFun)" />
+              <option name="myItemId" value="f23164eb-7396-4025-946f-d34526bfbc17" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure) in IdeaFile{file://C:/work/Haskellfun/languages/HaskellFun/languageModels/structure.mps}" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="form" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </SELECTED>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="FileSystem" />
       <pane id="Favorites" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="GoToFile.includeJavaFiles" value="false" />
@@ -985,13 +589,13 @@
   </component>
   <component name="RunManager">
     <configuration default="true" type="JUnit Tests" factoryName="JUnit Tests">
-      <MyState />
       <myJUnitSettings>
         <MyState>
-          <option name="myModel" />
-          <option name="myModule" />
+          <option name="myModelRef" />
+          <option name="myModuleRef" />
           <option name="myInProcess" value="true" />
           <option name="myReuseCaches" value="true" />
+          <option name="myOverrideCachesLocation" value="false" />
           <option name="myDebug" value="false" />
           <option name="myCachesPath" value="C:\Users\user\AppData\Local\Temp\mps_test_dir0" />
           <option name="myTestCases">
@@ -1016,299 +620,58 @@
           </option>
         </MyState>
       </myJavaRunParameters>
-      <method />
+      <method v="2">
+        <option name="jetbrains.mps.execution.configurations.pluginSolution.plugin.MakeNodePointers_BeforeTask" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <MyState>
-        <option name="mySettings">
-          <RemoteConnectionSettings>
-            <option name="hostName" value="localhost" />
-            <option name="port" value="5005" />
-            <option name="sharedMemoryAddress" value="" />
-            <option name="suspend" value="false" />
-            <option name="useSockets" value="true" />
-          </RemoteConnectionSettings>
-        </option>
-      </MyState>
-      <method />
-    </configuration>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\user\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1098" extended-state="0" />
     <layout>
-      <window_info id="Bookmarks" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Model Checker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Migration" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Generation Tracer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Class Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Module Dependencies" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Usages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Context Actions" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="RefactoringView" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Node Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Typechecker State" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Supertypes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Typesystem Trace" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Classpath Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Cell Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Dependencies Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25349087" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Menu Trace" />
+      <window_info anchor="bottom" id="DClare Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Model Checker" order="7" />
+      <window_info anchor="bottom" id="Bookmarks" order="8" />
+      <window_info anchor="bottom" id="Migration" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Classpath Explorer" order="12" />
+      <window_info anchor="bottom" id="Usages" order="13" weight="0.32916668" />
+      <window_info anchor="bottom" id="Node Explorer" order="14" />
+      <window_info anchor="bottom" id="Module Dependencies" order="15" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="16" visible="true" weight="0.33056134" />
+      <window_info anchor="bottom" id="Generation Tracer" order="17" />
+      <window_info anchor="bottom" id="Cell Explorer" order="18" />
+      <window_info anchor="bottom" id="Messages" order="19" weight="0.32916668" />
+      <window_info anchor="bottom" id="Typechecker State" order="20" />
+      <window_info anchor="bottom" id="Console" order="21" />
+      <window_info anchor="bottom" id="RefactoringView" order="22" />
+      <window_info anchor="bottom" id="Inspector" order="23" side_tool="true" />
+      <window_info anchor="bottom" id="Dependencies Viewer" order="24" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24973147" />
+      <window_info anchor="right" id="Class Hierarchy" order="3" />
+      <window_info anchor="right" id="Typesystem Trace" order="4" />
+      <window_info anchor="right" id="Supertypes" order="5" />
+      <window_info anchor="right" id="Context Actions" order="6" />
     </layout>
   </component>
   <component name="UsagesViewTool">
     <version id="1" />
-    <tabs>
-      <tab>
-        <result_provider class_name="jetbrains.mps.ide.findusages.findalgorithm.resultproviders.treenodes.UnionNode">
-          <children>
-            <jetbrains.mps.ide.findusages.findalgorithm.resultproviders.treenodes.FinderNode>
-              <children />
-              <generated_finder class_name="jetbrains.mps.lang.structure.findUsages.NodeUsages_Finder" />
-            </jetbrains.mps.ide.findusages.findalgorithm.resultproviders.treenodes.FinderNode>
-          </children>
-        </result_provider>
-        <query>
-          <scope scope_class="jetbrains.mps.ide.findusages.model.scopes.ProjectScope" />
-          <holder holder_class="jetbrains.mps.ide.findusages.model.holders.NodeHolder">
-            <node ref="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)/1068431790191" title="Expression" />
-          </holder>
-        </query>
-        <usage_view>
-          <tree_wrapper>
-            <node_representator />
-            <view_options>
-              <options category_option="false" module_option="true" model_option="true" root_option="true" path_option="false" count_option="true" info_option="true" view_searched_nodes_option="true" group_searched_nodes_option="true" autoscroll_option="false" />
-            </view_options>
-            <contents>
-              <data data_class="jetbrains.mps.ide.findusages.view.treeholder.tree.nodedatatypes.MainNodeData" caption="" info="" excluded="false" expanded="true" isresult="false" results_section="false">
-                <role name="main root" />
-              </data>
-              <children>
-                <child>
-                  <data data_class="jetbrains.mps.ide.findusages.view.treeholder.tree.nodedatatypes.SearchedNodesNodeData" caption="Searched nodes" info="" excluded="false" expanded="true" isresult="false" results_section="false">
-                    <role name="searched nodes" />
-                  </data>
-                  <children>
-                    <child>
-                      <data data_class="jetbrains.mps.ide.findusages.view.treeholder.tree.nodedatatypes.CategoryNodeData" caption="&lt;b&gt;Searched nodes&lt;/b&gt;" info="" excluded="false" expanded="true" isresult="false" results_section="false" category="Searched nodes" category_kind="Category">
-                        <role name="category:Category" />
-                      </data>
-                      <children>
-                        <child>
-                          <data data_class="jetbrains.mps.ide.findusages.view.treeholder.tree.nodedatatypes.ModuleNodeData" caption="jetbrains.mps.baseLanguage" info="" excluded="false" expanded="true" isresult="false" results_section="false" module_ref="f3061a53-9226-4cc5-a443-f952ceaf5816(jetbrains.mps.baseLanguage)">
-                            <role name="module" />
-                          </data>
-                          <children>
-                            <child>
-                              <data data_class="jetbrains.mps.ide.findusages.view.treeholder.tree.nodedatatypes.ModelNodeData" caption="jetbrains.mps.baseLanguage.structure" info="" excluded="false" expanded="false" isresult="false" results_section="false">
-                                <role name="model" />
-                                <model uid="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
-                              </data>
-                              <children>
-                                <child>
-                                  <data data_class="jetbrains.mps.ide.findusages.view.treeholder.tree.nodedatatypes.NodeNodeData" caption="Expression" info="" excluded="false" expanded="false" isresult="true" results_section="false" nodePtr="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)/1068431790191">
-                                    <role name="target" />
-                                  </data>
-                                  <children />
-                                </child>
-                              </children>
-                            </child>
-                          </children>
-                        </child>
-                      </children>
-                    </child>
-                  </children>
-                </child>
-                <child>
-                  <data data_class="jetbrains.mps.ide.findusages.view.treeholder.tree.nodedatatypes.ResultsNodeData" caption="results" info="" excluded="false" expanded="true" isresult="false" results_section="false">
-                    <role name="results" />
-                  </data>
-                  <children>
-                    <child>
-                      <data data_class="jetbrains.mps.ide.findusages.view.treeholder.tree.nodedatatypes.CategoryNodeData" caption="&lt;b&gt;Node Usages&lt;/b&gt;" info="" excluded="false" expanded="true" isresult="false" results_section="true" category="Node Usages" category_kind="Category">
-                        <role name="category:Category" />
-                      </data>
-                      <children>
-                        <child>
-                          <data data_class="jetbrains.mps.ide.findusages.view.treeholder.tree.nodedatatypes.ModuleNodeData" caption="HaskellFun" info="" excluded="false" expanded="true" isresult="false" results_section="true" module_ref="70eb8650-b187-4f45-9958-03d27f5d94ba(HaskellFun)">
-                            <role name="module" />
-                          </data>
-                          <children>
-                            <child>
-                              <data data_class="jetbrains.mps.ide.findusages.view.treeholder.tree.nodedatatypes.ModelNodeData" caption="HaskellFun.structure" info="" excluded="false" expanded="true" isresult="false" results_section="true">
-                                <role name="model" />
-                                <model uid="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)" />
-                              </data>
-                              <children>
-                                <child>
-                                  <data data_class="jetbrains.mps.ide.findusages.view.treeholder.tree.nodedatatypes.NodeNodeData" caption="Declaration" info="" excluded="false" expanded="true" isresult="false" results_section="true" nodePtr="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111731872103">
-                                    <role name="root" />
-                                  </data>
-                                  <children>
-                                    <child>
-                                      <data data_class="jetbrains.mps.ide.findusages.view.treeholder.tree.nodedatatypes.NodeNodeData" caption="value" info="role: &lt;i&gt;linkDeclaration&lt;/i&gt;; in: &lt;i&gt;Declaration&lt;/i&gt;" excluded="false" expanded="false" isresult="true" results_section="true" nodePtr="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111731919189">
-                                        <role name="target" />
-                                      </data>
-                                      <children />
-                                    </child>
-                                  </children>
-                                </child>
-                              </children>
-                            </child>
-                          </children>
-                        </child>
-                      </children>
-                    </child>
-                    <child>
-                      <data data_class="jetbrains.mps.ide.findusages.view.treeholder.tree.nodedatatypes.CategoryNodeData" caption="&lt;b&gt;Node Usages&lt;/b&gt;" info="" excluded="false" expanded="true" isresult="false" results_section="true" category="Node Usages" category_kind="Category">
-                        <role name="category:Category" />
-                      </data>
-                      <children>
-                        <child>
-                          <data data_class="jetbrains.mps.ide.findusages.view.treeholder.tree.nodedatatypes.ModuleNodeData" caption="HaskellFun" info="" excluded="false" expanded="true" isresult="false" results_section="true" module_ref="70eb8650-b187-4f45-9958-03d27f5d94ba(HaskellFun)">
-                            <role name="module" />
-                          </data>
-                          <children>
-                            <child>
-                              <data data_class="jetbrains.mps.ide.findusages.view.treeholder.tree.nodedatatypes.ModelNodeData" caption="HaskellFun.structure" info="" excluded="false" expanded="false" isresult="false" results_section="true">
-                                <role name="model" />
-                                <model uid="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)" />
-                              </data>
-                              <children>
-                                <child>
-                                  <data data_class="jetbrains.mps.ide.findusages.view.treeholder.tree.nodedatatypes.NodeNodeData" caption="DeclarationReference" info="" excluded="false" expanded="false" isresult="true" results_section="true" nodePtr="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111732402610">
-                                    <role name="target" />
-                                  </data>
-                                  <children />
-                                </child>
-                              </children>
-                            </child>
-                          </children>
-                        </child>
-                      </children>
-                    </child>
-                    <child>
-                      <data data_class="jetbrains.mps.ide.findusages.view.treeholder.tree.nodedatatypes.CategoryNodeData" caption="&lt;b&gt;Node Usages&lt;/b&gt;" info="" excluded="false" expanded="true" isresult="false" results_section="true" category="Node Usages" category_kind="Category">
-                        <role name="category:Category" />
-                      </data>
-                      <children>
-                        <child>
-                          <data data_class="jetbrains.mps.ide.findusages.view.treeholder.tree.nodedatatypes.ModuleNodeData" caption="HaskellFun" info="" excluded="false" expanded="true" isresult="false" results_section="true" module_ref="70eb8650-b187-4f45-9958-03d27f5d94ba(HaskellFun)">
-                            <role name="module" />
-                          </data>
-                          <children>
-                            <child>
-                              <data data_class="jetbrains.mps.ide.findusages.view.treeholder.tree.nodedatatypes.ModelNodeData" caption="HaskellFun.structure" info="" excluded="false" expanded="false" isresult="false" results_section="true">
-                                <role name="model" />
-                                <model uid="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)" />
-                              </data>
-                              <children>
-                                <child>
-                                  <data data_class="jetbrains.mps.ide.findusages.view.treeholder.tree.nodedatatypes.NodeNodeData" caption="DoExpression" info="" excluded="false" expanded="false" isresult="true" results_section="true" nodePtr="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111732376367">
-                                    <role name="target" />
-                                  </data>
-                                  <children />
-                                </child>
-                              </children>
-                            </child>
-                          </children>
-                        </child>
-                      </children>
-                    </child>
-                    <child>
-                      <data data_class="jetbrains.mps.ide.findusages.view.treeholder.tree.nodedatatypes.CategoryNodeData" caption="&lt;b&gt;Node Usages&lt;/b&gt;" info="" excluded="false" expanded="true" isresult="false" results_section="true" category="Node Usages" category_kind="Category">
-                        <role name="category:Category" />
-                      </data>
-                      <children>
-                        <child>
-                          <data data_class="jetbrains.mps.ide.findusages.view.treeholder.tree.nodedatatypes.ModuleNodeData" caption="HaskellFun" info="" excluded="false" expanded="true" isresult="false" results_section="true" module_ref="70eb8650-b187-4f45-9958-03d27f5d94ba(HaskellFun)">
-                            <role name="module" />
-                          </data>
-                          <children>
-                            <child>
-                              <data data_class="jetbrains.mps.ide.findusages.view.treeholder.tree.nodedatatypes.ModelNodeData" caption="HaskellFun.structure" info="" excluded="false" expanded="false" isresult="false" results_section="true">
-                                <role name="model" />
-                                <model uid="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)" />
-                              </data>
-                              <children>
-                                <child>
-                                  <data data_class="jetbrains.mps.ide.findusages.view.treeholder.tree.nodedatatypes.NodeNodeData" caption="Println" info="" excluded="false" expanded="false" isresult="true" results_section="true" nodePtr="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111732402521">
-                                    <role name="target" />
-                                  </data>
-                                  <children />
-                                </child>
-                              </children>
-                            </child>
-                          </children>
-                        </child>
-                      </children>
-                    </child>
-                    <child>
-                      <data data_class="jetbrains.mps.ide.findusages.view.treeholder.tree.nodedatatypes.CategoryNodeData" caption="&lt;b&gt;Node Usages&lt;/b&gt;" info="" excluded="false" expanded="true" isresult="false" results_section="true" category="Node Usages" category_kind="Category">
-                        <role name="category:Category" />
-                      </data>
-                      <children>
-                        <child>
-                          <data data_class="jetbrains.mps.ide.findusages.view.treeholder.tree.nodedatatypes.ModuleNodeData" caption="HaskellFun" info="" excluded="false" expanded="true" isresult="false" results_section="true" module_ref="70eb8650-b187-4f45-9958-03d27f5d94ba(HaskellFun)">
-                            <role name="module" />
-                          </data>
-                          <children>
-                            <child>
-                              <data data_class="jetbrains.mps.ide.findusages.view.treeholder.tree.nodedatatypes.ModelNodeData" caption="HaskellFun.structure" info="" excluded="false" expanded="false" isresult="false" results_section="true">
-                                <role name="model" />
-                                <model uid="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)" />
-                              </data>
-                              <children>
-                                <child>
-                                  <data data_class="jetbrains.mps.ide.findusages.view.treeholder.tree.nodedatatypes.NodeNodeData" caption="Println" info="" excluded="false" expanded="false" isresult="false" results_section="true" nodePtr="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111732402521">
-                                    <role name="root" />
-                                  </data>
-                                  <children>
-                                    <child>
-                                      <data data_class="jetbrains.mps.ide.findusages.view.treeholder.tree.nodedatatypes.NodeNodeData" caption="message" info="role: &lt;i&gt;linkDeclaration&lt;/i&gt;; in: &lt;i&gt;Println&lt;/i&gt;" excluded="false" expanded="false" isresult="true" results_section="true" nodePtr="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111732402539">
-                                        <role name="target" />
-                                      </data>
-                                      <children />
-                                    </child>
-                                  </children>
-                                </child>
-                              </children>
-                            </child>
-                          </children>
-                        </child>
-                      </children>
-                    </child>
-                  </children>
-                </child>
-              </children>
-            </contents>
-          </tree_wrapper>
-        </usage_view>
-      </tab>
-    </tabs>
+    <tabs />
     <default_view_options>
       <options category_option="false" module_option="true" model_option="true" root_option="true" path_option="false" count_option="true" info_option="true" view_searched_nodes_option="true" group_searched_nodes_option="true" autoscroll_option="false" />
     </default_view_options>
@@ -1321,9 +684,6 @@
       <collection />
     </option>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="my first modification: module top level is conventionally not indented" />
     <MESSAGE value="my first modification: module top level is conventionally not indented on text generation" />
@@ -1334,468 +694,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="migrate to MPS 2017.1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="mps://node://HaskellFun/HaskellFun.structure/HaskellModule">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://HaskellFun/HaskellFun.structure/Import">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111731787730" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://HaskellFun/HaskellFun.structure/Form">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111731787730" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://HaskellFun/HaskellFun.structure/EmptyLine">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111731787730" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://HaskellFun/HaskellFun.structure/Constructor">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111731787730" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://HaskellFun/HaskellFun.structure/ConstructorRecord">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111731787730" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://HaskellFun/HaskellFun.structure/RecordEntry">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111731787730" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://HaskellFun/HaskellFun.structure/HaskellModule">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://HaskellFun/HaskellFun.structure/Import">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111731787730" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers>
-              <errorMarker text="" propertyCell="true" cellId="property_conceptId_1" cellNumber="0" isInList="false">
-                <node node_reference="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111731787730" />
-              </errorMarker>
-            </errorMarkers>
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://HaskellFun/HaskellFun.structure/Form">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111731787730" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers>
-              <errorMarker text="" propertyCell="true" cellId="property_conceptId_1" cellNumber="0" isInList="false">
-                <node node_reference="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111731787730" />
-              </errorMarker>
-            </errorMarkers>
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://HaskellFun/HaskellFun.structure/EmptyLine">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111731787730" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers>
-              <errorMarker text="" propertyCell="true" cellId="property_conceptId_1" cellNumber="0" isInList="false">
-                <node node_reference="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111731787730" />
-              </errorMarker>
-            </errorMarkers>
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://HaskellFun/HaskellFun.structure/Constructor">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111731787730" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers>
-              <errorMarker text="" propertyCell="true" cellId="property_conceptId_1" cellNumber="0" isInList="false">
-                <node node_reference="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111731787730" />
-              </errorMarker>
-            </errorMarkers>
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://HaskellFun/HaskellFun.structure/ConstructorRecord">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111731787730" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers>
-              <errorMarker text="" propertyCell="true" cellId="property_conceptId_1" cellNumber="0" isInList="false">
-                <node node_reference="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111731787730" />
-              </errorMarker>
-            </errorMarkers>
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://HaskellFun/HaskellFun.structure/RecordEntry">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111731787730" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers>
-              <errorMarker text="" propertyCell="true" cellId="property_conceptId_1" cellNumber="0" isInList="false">
-                <node node_reference="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111731787730" />
-              </errorMarker>
-            </errorMarkers>
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://HaskellFun/HaskellFun.structure/HaskellModule">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://HaskellFun/HaskellFun.structure/Import">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:a870ae4c-5856-4f27-ba29-894084d4c696(HaskellFun.sandbox)/8920266709876824323" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://HaskellFun/HaskellFun.structure/Form">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:a870ae4c-5856-4f27-ba29-894084d4c696(HaskellFun.sandbox)/8920266709876824323" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://HaskellFun/HaskellFun.structure/EmptyLine">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:a870ae4c-5856-4f27-ba29-894084d4c696(HaskellFun.sandbox)/8920266709876824323" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://HaskellFun/HaskellFun.structure/Constructor">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:a870ae4c-5856-4f27-ba29-894084d4c696(HaskellFun.sandbox)/8920266709876824323" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://HaskellFun/HaskellFun.structure/ConstructorRecord">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:a870ae4c-5856-4f27-ba29-894084d4c696(HaskellFun.sandbox)/8920266709876824323" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://HaskellFun/HaskellFun.structure/RecordEntry">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:a870ae4c-5856-4f27-ba29-894084d4c696(HaskellFun.sandbox)/8920266709876824323" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
     <entry file="mps://node://jetbrains.mps.lang.actions/jetbrains.mps.lang.actions.structure/ConceptFunctionParameter_sourceNode" />
     <entry file="mps://node://HaskellFun#3625473111731754571/HaskellFun.generator.template.main@generator/main" />
     <entry file="mps://node://HaskellFun/HaskellFun.actions/AlgebraicDataTypeDeclarations" />
@@ -1839,7 +737,7 @@
                 <property name="caretX" value="71" />
                 <property name="caretXRelative" value="56" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                <cellInfo cellId="Constant_ueqr71_c0a">
                   <node node_reference="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111731787730" />
                 </cellInfo>
               </stackElement>
@@ -1871,7 +769,7 @@
                 <property name="caretX" value="71" />
                 <property name="caretXRelative" value="56" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                <cellInfo cellId="Constant_ueqr71_c0a">
                   <node node_reference="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/2925734019484094709" />
                 </cellInfo>
               </stackElement>
@@ -1887,7 +785,7 @@
                 <property name="caretX" value="0" />
                 <property name="caretXRelative" value="-15" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Collection_ueqr71_a_0" cellNumber="0" isInList="false">
+                <cellInfo cellId="Collection_ueqr71_a_0">
                   <node node_reference="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111732402521" />
                 </cellInfo>
               </stackElement>
@@ -1912,7 +810,7 @@
                 <property name="caretX" value="183" />
                 <property name="caretXRelative" value="32" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="name" cellNumber="0" isInList="false">
+                <cellInfo cellId="name">
                   <node node_reference="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111731833580" />
                 </cellInfo>
               </stackElement>
@@ -1928,7 +826,7 @@
                 <property name="caretX" value="0" />
                 <property name="caretXRelative" value="-15" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Collection_6h6dhy_a_0" cellNumber="0" isInList="false">
+                <cellInfo cellId="Collection_6h6dhy_a_0">
                   <node node_reference="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111731919189" />
                 </cellInfo>
               </stackElement>
@@ -1943,6 +841,149 @@
         </state>
       </provider>
     </entry>
+    <entry file="mps://node://HaskellFun.sandbox/HaskellFun.sandbox/Demo (concept is not found)" />
+    <entry file="mps://node://jetbrains.mps.baseLanguage/jetbrains.mps.baseLanguage.structure/Expression">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="231" />
+                <property name="caretXRelative" value="80" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="name">
+                  <node node_reference="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)/1068431790191" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)/1068431790191" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)/1068431790191" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://HaskellFun.sandbox/HaskellFun.sandbox/Demo">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers>
+              <errorMarker text="" propertyCell="false" cellNumber="0" />
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:a870ae4c-5856-4f27-ba29-894084d4c696(HaskellFun.sandbox)/3625473111732410859" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://HaskellFun/HaskellFun.structure/Println">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="315" />
+                <property name="caretXRelative" value="30" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name">
+                  <node node_reference="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111732402521" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:a870ae4c-5856-4f27-ba29-894084d4c696(HaskellFun.sandbox)/3625473111732410859" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111732402521" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://HaskellFun/HaskellFun.structure/Declaration">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="75" />
+                <property name="caretXRelative" value="60" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a">
+                  <node node_reference="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111731872103" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:a870ae4c-5856-4f27-ba29-894084d4c696(HaskellFun.sandbox)/3625473111732410859" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111731872103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://HaskellFun.sandbox/HaskellFun.sandbox/TryImport">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers>
+              <errorMarker text="" propertyCell="false" cellNumber="0" />
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:a870ae4c-5856-4f27-ba29-894084d4c696(HaskellFun.sandbox)/3625473111732410859" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
     <entry file="mps://node://HaskellFun/HaskellFun.structure/EmptyLine">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
@@ -1950,10 +991,10 @@
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="71" />
-                <property name="caretXRelative" value="56" />
+                <property name="caretX" value="75" />
+                <property name="caretXRelative" value="60" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                <cellInfo cellId="Constant_ueqr71_c0a">
                   <node node_reference="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111731833586" />
                 </cellInfo>
               </stackElement>
@@ -1982,10 +1023,10 @@
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="71" />
-                <property name="caretXRelative" value="56" />
+                <property name="caretX" value="75" />
+                <property name="caretXRelative" value="60" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                <cellInfo cellId="Constant_ueqr71_c0a">
                   <node node_reference="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/654027536476934956" />
                 </cellInfo>
               </stackElement>
@@ -2014,10 +1055,10 @@
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="71" />
-                <property name="caretXRelative" value="56" />
+                <property name="caretX" value="75" />
+                <property name="caretXRelative" value="60" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                <cellInfo cellId="Constant_ueqr71_c0a">
                   <node node_reference="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/654027536477435677" />
                 </cellInfo>
               </stackElement>
@@ -2046,10 +1087,10 @@
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="71" />
-                <property name="caretXRelative" value="56" />
+                <property name="caretX" value="75" />
+                <property name="caretXRelative" value="60" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                <cellInfo cellId="Constant_ueqr71_c0a">
                   <node node_reference="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/654027536477954859" />
                 </cellInfo>
               </stackElement>
@@ -2071,181 +1112,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://HaskellFun.sandbox/HaskellFun.sandbox/Demo (concept is not found)" />
-    <entry file="mps://node://HaskellFun.sandbox/HaskellFun.sandbox/TryImport">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="71" />
-                <property name="caretXRelative" value="0" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node node_reference="r:a870ae4c-5856-4f27-ba29-894084d4c696(HaskellFun.sandbox)/2925734019484145055" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:a870ae4c-5856-4f27-ba29-894084d4c696(HaskellFun.sandbox)/3625473111732410859" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://HaskellFun/HaskellFun.structure/Println">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="263" />
-                <property name="caretXRelative" value="32" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node node_reference="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111732402521" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:a870ae4c-5856-4f27-ba29-894084d4c696(HaskellFun.sandbox)/3625473111732410859" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111732402521" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://jetbrains.mps.baseLanguage/jetbrains.mps.baseLanguage.structure/Expression">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="231" />
-                <property name="caretXRelative" value="80" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="name" cellNumber="0" isInList="false">
-                  <node node_reference="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)/1068431790191" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)/1068431790191" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)/1068431790191" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://HaskellFun/HaskellFun.structure/Declaration">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="71" />
-                <property name="caretXRelative" value="56" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
-                  <node node_reference="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111731872103" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:a870ae4c-5856-4f27-ba29-894084d4c696(HaskellFun.sandbox)/3625473111732410859" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111731872103" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://HaskellFun.sandbox/HaskellFun.sandbox/Demo">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="71" />
-                <property name="caretXRelative" value="0" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node node_reference="r:a870ae4c-5856-4f27-ba29-894084d4c696(HaskellFun.sandbox)/8920266709876824314" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:a870ae4c-5856-4f27-ba29-894084d4c696(HaskellFun.sandbox)/3625473111732410859" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
     <entry file="mps://node://HaskellFun.sandbox/HaskellFun.sandbox/Hello">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
           <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="47" />
-                <property name="caretXRelative" value="16" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="ALIAS_EDITOR_COMPONENT" cellNumber="0" isInList="false">
-                  <node node_reference="r:a870ae4c-5856-4f27-ba29-894084d4c696(HaskellFun.sandbox)/3625473111732410859" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
+            <selectionStack />
+            <errorMarkers>
+              <errorMarker text="" propertyCell="false" cellNumber="0" />
+            </errorMarkers>
             <transactionalProperties />
             <foldable />
             <restoreAlways />

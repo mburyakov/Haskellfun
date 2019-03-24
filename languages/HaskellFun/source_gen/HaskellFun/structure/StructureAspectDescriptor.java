@@ -8,8 +8,10 @@ import java.util.Collection;
 import java.util.Arrays;
 import org.jetbrains.annotations.Nullable;
 import jetbrains.mps.smodel.adapter.ids.SConceptId;
+import jetbrains.mps.smodel.runtime.DataTypeDescriptor;
 import org.jetbrains.mps.openapi.language.SAbstractConcept;
 import jetbrains.mps.smodel.runtime.impl.ConceptDescriptorBuilder2;
+import jetbrains.mps.smodel.adapter.ids.PrimitiveTypeId;
 import jetbrains.mps.smodel.runtime.ConceptKind;
 import jetbrains.mps.smodel.runtime.StaticScope;
 
@@ -31,10 +33,10 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
   /*package*/ final ConceptDescriptor myConceptPrintln = createDescriptorForPrintln();
   /*package*/ final ConceptDescriptor myConceptRecordEntry = createDescriptorForRecordEntry();
   /*package*/ final ConceptDescriptor myConceptTypeVariable = createDescriptorForTypeVariable();
-  private final LanguageConceptSwitch myConceptIndex;
+  private final LanguageConceptSwitch myIndexSwitch;
 
   public StructureAspectDescriptor() {
-    myConceptIndex = new LanguageConceptSwitch();
+    myIndexSwitch = new LanguageConceptSwitch();
   }
 
   @Override
@@ -45,7 +47,7 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
   @Override
   @Nullable
   public ConceptDescriptor getDescriptor(SConceptId id) {
-    switch (myConceptIndex.index(id)) {
+    switch (myIndexSwitch.index(id)) {
       case LanguageConceptSwitch.AbstractConstructor:
         return myConceptAbstractConstructor;
       case LanguageConceptSwitch.AlgebraicDataType:
@@ -85,8 +87,13 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
     }
   }
 
+  @Override
+  public Collection<DataTypeDescriptor> getDataTypeDescriptors() {
+    return Arrays.asList();
+  }
+
   /*package*/ int internalIndex(SAbstractConcept c) {
-    return myConceptIndex.index(c);
+    return myIndexSwitch.index(c);
   }
 
   private static ConceptDescriptor createDescriptorForAbstractConstructor() {
@@ -94,6 +101,7 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
     b.class_(false, true, false);
     b.parent(0xf3061a5392264cc5L, 0xa443f952ceaf5816L, 0x11a3afa8c0dL);
     b.origin("r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/654027536477954833");
+    b.version(2);
     return b.create();
   }
   private static ConceptDescriptor createDescriptorForAlgebraicDataType() {
@@ -102,7 +110,8 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
     b.super_("HaskellFun.structure.Form", 0x70eb8650b1874f45L, 0x995803d27f5d94baL, 0x3250449627818aecL);
     b.parent(0xf3061a5392264cc5L, 0xa443f952ceaf5816L, 0x11a3afa8c0dL);
     b.origin("r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/654027536476910669");
-    b.prop("isAbstract", 0x9139294490d107aL, "654027536477261946");
+    b.version(2);
+    b.property("isAbstract", 0x9139294490d107aL).type(PrimitiveTypeId.BOOLEAN).origin("654027536477261946").done();
     b.aggregate("typeVars", 0x913929449081352L).target(0x70eb8650b1874f45L, 0x995803d27f5d94baL, 0x913929449081356L).optional(true).ordered(true).multiple(true).origin("654027536476934994").done();
     b.aggregate("constructore", 0x91392944908132fL).target(0x70eb8650b1874f45L, 0x995803d27f5d94baL, 0x91392944917a311L).optional(false).ordered(true).multiple(true).origin("654027536476934959").done();
     b.aggregate("declarations", 0x91392944908134fL).target(0x70eb8650b1874f45L, 0x995803d27f5d94baL, 0x3250449627822167L).optional(true).ordered(true).multiple(true).origin("654027536476934991").done();
@@ -114,6 +123,7 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
     b.class_(false, false, false);
     b.super_("HaskellFun.structure.AbstractConstructor", 0x70eb8650b1874f45L, 0x995803d27f5d94baL, 0x91392944917a311L);
     b.origin("r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/654027536476934956");
+    b.version(2);
     b.aggregate("types", 0x9139294490fb747L).target(0xf3061a5392264cc5L, 0xa443f952ceaf5816L, 0xf8c37f506dL).optional(true).ordered(true).multiple(true).origin("654027536477435719").done();
     b.alias("constructor");
     return b.create();
@@ -123,6 +133,7 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
     b.class_(false, false, false);
     b.super_("HaskellFun.structure.AbstractConstructor", 0x70eb8650b1874f45L, 0x995803d27f5d94baL, 0x91392944917a311L);
     b.origin("r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/654027536477435677");
+    b.version(2);
     b.aggregate("entries", 0x91392944917a57eL).target(0x70eb8650b1874f45L, 0x995803d27f5d94baL, 0x91392944917a32bL).optional(true).ordered(true).multiple(true).origin("654027536477955454").done();
     b.alias("constructor with record syntax");
     return b.create();
@@ -132,6 +143,7 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
     b.class_(false, false, false);
     b.super_("jetbrains.mps.baseLanguage.structure.Type", 0xf3061a5392264cc5L, 0xa443f952ceaf5816L, 0xf8c37f506dL);
     b.origin("r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/654027536478709469");
+    b.version(2);
     b.associate("algebraicDataType", 0x913929449232708L).target(0x70eb8650b1874f45L, 0x995803d27f5d94baL, 0x91392944907b44dL).optional(false).origin("654027536478709512").done();
     b.aggregate("typeParameters", 0x913929449238f52L).target(0xf3061a5392264cc5L, 0xa443f952ceaf5816L, 0xf8c37f506dL).optional(true).ordered(true).multiple(true).origin("654027536478736210").done();
     b.kind(ConceptKind.INTERFACE, StaticScope.GLOBAL);
@@ -143,6 +155,7 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
     b.super_("HaskellFun.structure.Form", 0x70eb8650b1874f45L, 0x995803d27f5d94baL, 0x3250449627818aecL);
     b.parent(0xf3061a5392264cc5L, 0xa443f952ceaf5816L, 0x11a3afa8c0dL);
     b.origin("r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111731872103");
+    b.version(2);
     b.aggregate("parameters", 0x32504496278a6159L).target(0x70eb8650b1874f45L, 0x995803d27f5d94baL, 0x32504496278a5a5dL).optional(true).ordered(true).multiple(true).origin("3625473111732412761").done();
     b.aggregate("value", 0x325044962782d955L).target(0xf3061a5392264cc5L, 0xa443f952ceaf5816L, 0xf8c37f506fL).optional(false).ordered(true).multiple(false).origin("3625473111731919189").done();
     b.alias("definition");
@@ -153,6 +166,7 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
     b.class_(false, false, false);
     b.parent(0xf3061a5392264cc5L, 0xa443f952ceaf5816L, 0x11a3afa8c0dL);
     b.origin("r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111732410973");
+    b.version(2);
     return b.create();
   }
   private static ConceptDescriptor createDescriptorForDeclarationReference() {
@@ -161,6 +175,7 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
     b.super_("jetbrains.mps.baseLanguage.structure.Expression", 0xf3061a5392264cc5L, 0xa443f952ceaf5816L, 0xf8c37f506fL);
     b.parent(0x70eb8650b1874f45L, 0x995803d27f5d94baL, 0x32504496278a38b1L);
     b.origin("r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111732402610");
+    b.version(2);
     b.associate("definition", 0x32504496278a39b5L).target(0x70eb8650b1874f45L, 0x995803d27f5d94baL, 0x3250449627822167L).optional(false).origin("3625473111732402613").done();
     return b.create();
   }
@@ -170,6 +185,7 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
     b.super_("jetbrains.mps.baseLanguage.structure.Expression", 0xf3061a5392264cc5L, 0xa443f952ceaf5816L, 0xf8c37f506fL);
     b.parent(0x70eb8650b1874f45L, 0x995803d27f5d94baL, 0x32504496278a38b1L);
     b.origin("r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111732376367");
+    b.version(2);
     b.aggregate("expressions", 0x32504496278a3909L).target(0x70eb8650b1874f45L, 0x995803d27f5d94baL, 0x32504496278a38b1L).optional(true).ordered(true).multiple(true).origin("3625473111732402441").done();
     b.alias("do");
     return b.create();
@@ -178,8 +194,8 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
     ConceptDescriptorBuilder2 b = new ConceptDescriptorBuilder2("HaskellFun", "EmptyLine", 0x70eb8650b1874f45L, 0x995803d27f5d94baL, 0x3250449627818af2L);
     b.class_(false, false, false);
     b.super_("HaskellFun.structure.Form", 0x70eb8650b1874f45L, 0x995803d27f5d94baL, 0x3250449627818aecL);
-    b.parent(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, 0x19796fa16a19888bL);
     b.origin("r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111731833586");
+    b.version(2);
     b.alias("<empty>");
     return b.create();
   }
@@ -187,12 +203,14 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
     ConceptDescriptorBuilder2 b = new ConceptDescriptorBuilder2("HaskellFun", "Form", 0x70eb8650b1874f45L, 0x995803d27f5d94baL, 0x3250449627818aecL);
     b.class_(false, true, false);
     b.origin("r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111731833580");
+    b.version(2);
     return b.create();
   }
   private static ConceptDescriptor createDescriptorForHaskellExpression() {
     ConceptDescriptorBuilder2 b = new ConceptDescriptorBuilder2("HaskellFun", "HaskellExpression", 0x70eb8650b1874f45L, 0x995803d27f5d94baL, 0x32504496278a38b1L);
     b.interface_();
     b.origin("r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111732402353");
+    b.version(2);
     return b.create();
   }
   private static ConceptDescriptor createDescriptorForHaskellModule() {
@@ -200,6 +218,7 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
     b.class_(false, false, true);
     b.parent(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, 0x110396eaaa4L);
     b.origin("r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111731787730");
+    b.version(2);
     b.aggregate("body", 0x3250449627822108L).target(0x70eb8650b1874f45L, 0x995803d27f5d94baL, 0x3250449627818aecL).optional(true).ordered(true).multiple(true).origin("3625473111731872008").done();
     b.alias("module");
     return b.create();
@@ -210,6 +229,7 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
     b.super_("HaskellFun.structure.Form", 0x70eb8650b1874f45L, 0x995803d27f5d94baL, 0x3250449627818aecL);
     b.parent(0x70eb8650b1874f45L, 0x995803d27f5d94baL, 0x32504496278a38b1L);
     b.origin("r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/2925734019484094709");
+    b.version(2);
     b.associate("module", 0x289a4b96eaa01528L).target(0x70eb8650b1874f45L, 0x995803d27f5d94baL, 0x325044962780d7d2L).optional(false).origin("2925734019484095784").done();
     b.alias("import");
     return b.create();
@@ -220,6 +240,7 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
     b.super_("jetbrains.mps.baseLanguage.structure.Expression", 0xf3061a5392264cc5L, 0xa443f952ceaf5816L, 0xf8c37f506fL);
     b.parent(0x70eb8650b1874f45L, 0x995803d27f5d94baL, 0x32504496278a38b1L);
     b.origin("r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111732402521");
+    b.version(2);
     b.aggregate("message", 0x32504496278a396bL).target(0xf3061a5392264cc5L, 0xa443f952ceaf5816L, 0xf8c37f506fL).optional(false).ordered(true).multiple(false).origin("3625473111732402539").done();
     b.alias("println");
     return b.create();
@@ -229,6 +250,7 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
     b.class_(false, false, false);
     b.parent(0xf3061a5392264cc5L, 0xa443f952ceaf5816L, 0x11a3afa8c0dL);
     b.origin("r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/654027536477954859");
+    b.version(2);
     b.aggregate("type", 0x91392944917a343L).target(0xf3061a5392264cc5L, 0xa443f952ceaf5816L, 0xf8c37f506dL).optional(false).ordered(true).multiple(false).origin("654027536477954883").done();
     return b.create();
   }
@@ -237,6 +259,7 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
     b.class_(false, false, false);
     b.parent(0xf3061a5392264cc5L, 0xa443f952ceaf5816L, 0x11a3afa8c0dL);
     b.origin("r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/654027536476934998");
+    b.version(2);
     b.alias("type variable");
     return b.create();
   }

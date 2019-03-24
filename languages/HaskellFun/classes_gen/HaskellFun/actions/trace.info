@@ -7,25 +7,22 @@
   <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
   <root>
     <file name="ActionAspectDescriptorImpl.java">
-      <unit at="13,0,36,0" name="HaskellFun.actions.ActionAspectDescriptorImpl" />
-    </file>
-    <file name="QueriesGenerated.java">
-      <unit at="6,0,8,0" name="HaskellFun.actions.QueriesGenerated" />
+      <unit at="13,0,32,0" name="HaskellFun.actions.ActionAspectDescriptorImpl" />
     </file>
   </root>
   <root nodeRef="r:920d52b9-4691-419e-b14b-b18bb1a47f76(HaskellFun.actions)/654027536478002817">
     <file name="ConstructorConversions.java">
       <node id="654027536478002848" at="19,7,20,42" concept="4" />
-      <node id="654027536478003027" at="21,182,22,312" concept="1" />
-      <node id="654027536478067036" at="24,51,25,375" concept="4" />
-      <node id="654027536478038355" at="25,375,26,190" concept="1" />
+      <node id="654027536478003027" at="21,182,22,315" concept="1" />
+      <node id="654027536478067036" at="24,51,25,210" concept="4" />
+      <node id="654027536478038355" at="25,210,26,190" concept="1" />
       <node id="654027536478070466" at="35,7,36,42" concept="4" />
-      <node id="654027536478070471" at="37,188,38,312" concept="1" />
+      <node id="654027536478070471" at="37,188,38,315" concept="1" />
       <node id="654027536478080682" at="40,52,41,386" concept="1" />
       <node id="654027536478070485" at="40,0,43,0" concept="3" trace="visit#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
       <node id="654027536478037587" at="24,0,28,0" concept="3" trace="visit#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
-      <node id="654027536478070479" at="38,312,43,13" concept="1" />
-      <node id="654027536478017303" at="22,312,28,13" concept="1" />
+      <node id="654027536478070479" at="38,315,43,13" concept="1" />
+      <node id="654027536478017303" at="22,315,28,13" concept="1" />
       <node id="654027536478070466" at="36,42,44,9" concept="2" />
       <node id="654027536478002848" at="20,42,29,9" concept="2" />
       <node id="654027536478070466" at="34,97,45,7" concept="0" />

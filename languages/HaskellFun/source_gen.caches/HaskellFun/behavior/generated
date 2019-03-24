@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dependencies version="2" modelHash="-cqclbm054hsfpbp3tgb2d70iidrr7sh" />
+<product version="3" modelHash="a5w7vgb0dognna3lo4qtonk3ynt1mf0">
+  <files names="AbstractConstructor__BehaviorDescriptor.java:AlgebraicDataType__BehaviorDescriptor.java:BehaviorAspectDescriptor.java:ConstructorRecord__BehaviorDescriptor.java:Constructor__BehaviorDescriptor.java:DataType__BehaviorDescriptor.java" />
+</product>
 

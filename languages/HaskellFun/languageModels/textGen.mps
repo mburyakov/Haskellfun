@@ -2,12 +2,11 @@
 <model ref="r:ea316719-3d72-4fe8-a4ea-870993d9f4ac(HaskellFun.textGen)">
   <persistence version="9" />
   <languages>
-    <use id="b83431fe-5c8f-40bc-8a36-65e25f4dd253" name="jetbrains.mps.lang.textGen" version="-1" />
-    <devkit ref="fbc25dd2-5da4-483a-8b19-70928e1b62d7(jetbrains.mps.devkit.general-purpose)" />
+    <devkit ref="fa73d85a-ac7f-447b-846c-fcdc41caa600(jetbrains.mps.devkit.aspect.textgen)" />
   </languages>
   <imports>
-    <import index="tpck" ref="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" implicit="true" />
     <import index="4pym" ref="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)" implicit="true" />
+    <import index="tpck" ref="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" implicit="true" />
   </imports>
   <registry>
     <language id="f3061a53-9226-4cc5-a443-f952ceaf5816" name="jetbrains.mps.baseLanguage">
@@ -99,7 +98,7 @@
             <node concept="2OqwBi" id="39gh9oB$4SY" role="lbANJ">
               <node concept="117lpO" id="39gh9oB$4Rq" role="2Oq$k0" />
               <node concept="3Tsc0h" id="39gh9oB$52h" role="2OqNvi">
-                <ref role="3TtcxE" to="4pym:39gh9oBwy48" />
+                <ref role="3TtcxE" to="4pym:39gh9oBwy48" resolve="body" />
               </node>
             </node>
           </node>
@@ -138,7 +137,7 @@
             <node concept="2OqwBi" id="39gh9oB$5ra" role="lbANJ">
               <node concept="117lpO" id="39gh9oB$5oq" role="2Oq$k0" />
               <node concept="3Tsc0h" id="39gh9oB$68i" role="2OqNvi">
-                <ref role="3TtcxE" to="4pym:39gh9oByA5p" />
+                <ref role="3TtcxE" to="4pym:39gh9oByA5p" resolve="parameters" />
               </node>
             </node>
           </node>
@@ -149,7 +148,7 @@
             <node concept="2OqwBi" id="39gh9oB$6hW" role="lb14g">
               <node concept="117lpO" id="39gh9oB$6fp" role="2Oq$k0" />
               <node concept="3TrEf2" id="39gh9oB$6vh" role="2OqNvi">
-                <ref role="3Tt5mk" to="4pym:39gh9oBwH_l" />
+                <ref role="3Tt5mk" to="4pym:39gh9oBwH_l" resolve="value" />
               </node>
             </node>
           </node>
@@ -189,7 +188,7 @@
               <node concept="2OqwBi" id="39gh9oB$6PI" role="2Oq$k0">
                 <node concept="117lpO" id="39gh9oB$6Nx" role="2Oq$k0" />
                 <node concept="3TrEf2" id="39gh9oB$7u7" role="2OqNvi">
-                  <ref role="3Tt5mk" to="4pym:39gh9oByzAP" />
+                  <ref role="3Tt5mk" to="4pym:39gh9oByzAP" resolve="definition" />
                 </node>
               </node>
               <node concept="3TrcHB" id="39gh9oB$7Tg" role="2OqNvi">
@@ -228,7 +227,7 @@
             <node concept="2OqwBi" id="39gh9oB$80P" role="lb14g">
               <node concept="117lpO" id="39gh9oB$7YC" role="2Oq$k0" />
               <node concept="3TrEf2" id="39gh9oB$8cr" role="2OqNvi">
-                <ref role="3Tt5mk" to="4pym:39gh9oByz_F" />
+                <ref role="3Tt5mk" to="4pym:39gh9oByz_F" resolve="message" />
               </node>
             </node>
           </node>
@@ -259,7 +258,7 @@
                 <node concept="2OqwBi" id="39gh9oB$8lM" role="lbANJ">
                   <node concept="117lpO" id="39gh9oB$8jS" role="2Oq$k0" />
                   <node concept="3Tsc0h" id="39gh9oB$8wO" role="2OqNvi">
-                    <ref role="3TtcxE" to="4pym:39gh9oByz$9" />
+                    <ref role="3TtcxE" to="4pym:39gh9oByz$9" resolve="expressions" />
                   </node>
                 </node>
               </node>

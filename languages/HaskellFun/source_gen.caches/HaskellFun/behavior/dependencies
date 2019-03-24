@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dependenciesRoot>
-  <dependency className="HaskellFun.behavior.AbstractConstructor__BehaviorDescriptor" file="AbstractConstructor__BehaviorDescriptor.java">
+  <dependency className="HaskellFun.behavior.AbstractConstructor__BehaviorDescriptor">
     <classNode dependClassName="java.lang.Class" />
     <classNode dependClassName="java.lang.Object" />
     <classNode dependClassName="java.lang.Override" />
@@ -22,7 +22,7 @@
     <classNode dependClassName="org.jetbrains.mps.openapi.model.SNode" />
     <classNode extendsClassName="jetbrains.mps.core.aspects.behaviour.BaseBHDescriptor" />
   </dependency>
-  <dependency className="HaskellFun.behavior.AlgebraicDataType__BehaviorDescriptor" file="AlgebraicDataType__BehaviorDescriptor.java">
+  <dependency className="HaskellFun.behavior.AlgebraicDataType__BehaviorDescriptor">
     <classNode dependClassName="java.lang.Object" />
     <classNode dependClassName="java.lang.Override" />
     <classNode dependClassName="java.util.Arrays" />
@@ -40,7 +40,7 @@
     <classNode dependClassName="org.jetbrains.mps.openapi.model.SNode" />
     <classNode extendsClassName="jetbrains.mps.core.aspects.behaviour.BaseBHDescriptor" />
   </dependency>
-  <dependency className="HaskellFun.behavior.BehaviorAspectDescriptor" file="BehaviorAspectDescriptor.java">
+  <dependency className="HaskellFun.behavior.BehaviorAspectDescriptor">
     <classNode dependClassName="HaskellFun.behavior.AbstractConstructor__BehaviorDescriptor" />
     <classNode dependClassName="HaskellFun.behavior.AlgebraicDataType__BehaviorDescriptor" />
     <classNode dependClassName="HaskellFun.behavior.ConstructorRecord__BehaviorDescriptor" />
@@ -55,7 +55,7 @@
     <classNode dependClassName="org.jetbrains.mps.openapi.language.SAbstractConcept" />
     <classNode extendsClassName="jetbrains.mps.core.aspects.behaviour.BaseBehaviorAspectDescriptor" />
   </dependency>
-  <dependency className="HaskellFun.behavior.ConstructorRecord__BehaviorDescriptor" file="ConstructorRecord__BehaviorDescriptor.java">
+  <dependency className="HaskellFun.behavior.ConstructorRecord__BehaviorDescriptor">
     <classNode dependClassName="java.lang.Class" />
     <classNode dependClassName="java.lang.Object" />
     <classNode dependClassName="java.lang.Override" />
@@ -80,7 +80,7 @@
     <classNode dependClassName="org.jetbrains.mps.openapi.model.SNode" />
     <classNode extendsClassName="jetbrains.mps.core.aspects.behaviour.BaseBHDescriptor" />
   </dependency>
-  <dependency className="HaskellFun.behavior.Constructor__BehaviorDescriptor" file="Constructor__BehaviorDescriptor.java">
+  <dependency className="HaskellFun.behavior.Constructor__BehaviorDescriptor">
     <classNode dependClassName="java.lang.Class" />
     <classNode dependClassName="java.lang.Object" />
     <classNode dependClassName="java.lang.Override" />
@@ -103,7 +103,7 @@
     <classNode dependClassName="org.jetbrains.mps.openapi.model.SNode" />
     <classNode extendsClassName="jetbrains.mps.core.aspects.behaviour.BaseBHDescriptor" />
   </dependency>
-  <dependency className="HaskellFun.behavior.DataType__BehaviorDescriptor" file="DataType__BehaviorDescriptor.java">
+  <dependency className="HaskellFun.behavior.DataType__BehaviorDescriptor">
     <classNode dependClassName="java.lang.Boolean" />
     <classNode dependClassName="java.lang.Object" />
     <classNode dependClassName="java.lang.Override" />

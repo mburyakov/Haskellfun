@@ -19,10 +19,10 @@ public class ConstructorConversions {
       {
         final SNode original = sampleNode;
         if (SNodeOperations.isInstanceOf(original, MetaAdapterFactory.getConcept(0x70eb8650b1874f45L, 0x995803d27f5d94baL, 0x91392944908132cL, "HaskellFun.structure.Constructor"))) {
-          SPropertyOperations.set(newNode, MetaAdapterFactory.getProperty(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, 0x110396eaaa4L, 0x110396ec041L, "name"), SPropertyOperations.getString(original, MetaAdapterFactory.getProperty(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, 0x110396eaaa4L, 0x110396ec041L, "name")));
+          SPropertyOperations.assign(newNode, MetaAdapterFactory.getProperty(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, 0x110396eaaa4L, 0x110396ec041L, "name"), SPropertyOperations.getString(original, MetaAdapterFactory.getProperty(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, 0x110396eaaa4L, 0x110396ec041L, "name")));
           ListSequence.fromList(SLinkOperations.getChildren(original, MetaAdapterFactory.getContainmentLink(0x70eb8650b1874f45L, 0x995803d27f5d94baL, 0x91392944908132cL, 0x9139294490fb747L, "types"))).visitAll(new IVisitor<SNode>() {
             public void visit(SNode originalType) {
-              SNode entry = SNodeFactoryOperations.addNewChild(newNode, MetaAdapterFactory.getContainmentLink(0x70eb8650b1874f45L, 0x995803d27f5d94baL, 0x9139294490fb71dL, 0x91392944917a57eL, "entries"), SNodeFactoryOperations.asInstanceConcept(MetaAdapterFactory.getConcept(0x70eb8650b1874f45L, 0x995803d27f5d94baL, 0x91392944917a32bL, "HaskellFun.structure.RecordEntry")));
+              SNode entry = SNodeFactoryOperations.addNewChild(newNode, MetaAdapterFactory.getContainmentLink(0x70eb8650b1874f45L, 0x995803d27f5d94baL, 0x9139294490fb71dL, 0x91392944917a57eL, "entries"), null);
               SLinkOperations.setTarget(entry, MetaAdapterFactory.getContainmentLink(0x70eb8650b1874f45L, 0x995803d27f5d94baL, 0x91392944917a32bL, 0x91392944917a343L, "type"), originalType);
             }
           });
@@ -35,7 +35,7 @@ public class ConstructorConversions {
       {
         final SNode original = sampleNode;
         if (SNodeOperations.isInstanceOf(original, MetaAdapterFactory.getConcept(0x70eb8650b1874f45L, 0x995803d27f5d94baL, 0x9139294490fb71dL, "HaskellFun.structure.ConstructorRecord"))) {
-          SPropertyOperations.set(newNode, MetaAdapterFactory.getProperty(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, 0x110396eaaa4L, 0x110396ec041L, "name"), SPropertyOperations.getString(original, MetaAdapterFactory.getProperty(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, 0x110396eaaa4L, 0x110396ec041L, "name")));
+          SPropertyOperations.assign(newNode, MetaAdapterFactory.getProperty(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, 0x110396eaaa4L, 0x110396ec041L, "name"), SPropertyOperations.getString(original, MetaAdapterFactory.getProperty(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, 0x110396eaaa4L, 0x110396ec041L, "name")));
           ListSequence.fromList(SLinkOperations.getChildren(original, MetaAdapterFactory.getContainmentLink(0x70eb8650b1874f45L, 0x995803d27f5d94baL, 0x9139294490fb71dL, 0x91392944917a57eL, "entries"))).visitAll(new IVisitor<SNode>() {
             public void visit(SNode originalEntry) {
               ListSequence.fromList(SLinkOperations.getChildren(newNode, MetaAdapterFactory.getContainmentLink(0x70eb8650b1874f45L, 0x995803d27f5d94baL, 0x91392944908132cL, 0x9139294490fb747L, "types"))).addElement(SLinkOperations.getTarget(originalEntry, MetaAdapterFactory.getContainmentLink(0x70eb8650b1874f45L, 0x995803d27f5d94baL, 0x91392944917a32bL, 0x91392944917a343L, "type")));

@@ -25,7 +25,7 @@ public final class AlgebraicDataType__BehaviorDescriptor extends BaseBHDescripto
   private static final List<SMethod<?>> BH_METHODS = Arrays.<SMethod<?>>asList();
 
   private static void ___init___(@NotNull SNode __thisNode__) {
-    SNodeFactoryOperations.addNewChild(__thisNode__, MetaAdapterFactory.getContainmentLink(0x70eb8650b1874f45L, 0x995803d27f5d94baL, 0x91392944907b44dL, 0x91392944908132fL, "constructore"), SNodeFactoryOperations.asInstanceConcept(MetaAdapterFactory.getConcept(0x70eb8650b1874f45L, 0x995803d27f5d94baL, 0x91392944908132cL, "HaskellFun.structure.Constructor")));
+    SNodeFactoryOperations.addNewChild(__thisNode__, MetaAdapterFactory.getContainmentLink(0x70eb8650b1874f45L, 0x995803d27f5d94baL, 0x91392944907b44dL, 0x91392944908132fL, "constructore"), MetaAdapterFactory.getConcept(0x70eb8650b1874f45L, 0x995803d27f5d94baL, 0x91392944908132cL, "HaskellFun.structure.Constructor"));
   }
 
 

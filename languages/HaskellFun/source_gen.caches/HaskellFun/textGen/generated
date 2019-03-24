@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dependencies version="2" modelHash="-e1apxhdzfp1hk74acmb87myb7dz3xpv" />
+<product version="3" modelHash="-5gnfzkiir9op11h1usnbjclt5caxpyz">
+  <files names="DeclarationParameter_TextGen.java:DeclarationReference_TextGen.java:Declaration_TextGen.java:DoExpression_TextGen.java:EmptyLine_TextGen.java:HaskellModule_TextGen.java:Println_TextGen.java:TextGenAspectDescriptor.java" />
+</product>
 

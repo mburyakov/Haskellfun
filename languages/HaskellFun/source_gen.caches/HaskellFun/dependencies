@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dependenciesRoot>
-  <dependency className="HaskellFun.Language" file="Language.java">
+  <dependency className="HaskellFun.Language">
     <classNode dependClassName="HaskellFun.actions.ActionAspectDescriptorImpl" />
     <classNode dependClassName="HaskellFun.behavior.BehaviorAspectDescriptor" />
     <classNode dependClassName="HaskellFun.constraints.ConstraintsAspectDescriptor" />
@@ -13,8 +13,6 @@
     <classNode dependClassName="java.lang.Override" />
     <classNode dependClassName="java.lang.String" />
     <classNode dependClassName="java.util.Collection" />
-    <classNode dependClassName="jetbrains.mps.generator.runtime.TemplateModule" />
-    <classNode dependClassName="jetbrains.mps.generator.runtime.TemplateUtil" />
     <classNode dependClassName="jetbrains.mps.lang.typesystem.runtime.IHelginsDescriptor" />
     <classNode dependClassName="jetbrains.mps.openapi.actions.descriptor.ActionAspectDescriptor" />
     <classNode dependClassName="jetbrains.mps.openapi.editor.descriptor.EditorAspectDescriptor" />
