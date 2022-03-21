@@ -14,6 +14,8 @@ import jetbrains.mps.smodel.runtime.BehaviorAspectDescriptor;
 import jetbrains.mps.smodel.runtime.ConstraintsAspectDescriptor;
 import jetbrains.mps.openapi.editor.descriptor.EditorAspectDescriptor;
 import HaskellFun.editor.EditorAspectDescriptorImpl;
+import org.modelingvalue.dclare.mps.IRuleAspect;
+import HaskellFun.rules.RuleAspect;
 import jetbrains.mps.smodel.runtime.StructureAspectDescriptor;
 import jetbrains.mps.smodel.runtime.ConceptPresentationAspect;
 import HaskellFun.structure.ConceptPresentationAspectImpl;
@@ -60,6 +62,11 @@ public class Language extends LanguageRuntime {
     }
     if (aspectClass == EditorAspectDescriptor.class) {
       return aspectClass.cast(new EditorAspectDescriptorImpl());
+    }
+    if (aspectClass.getName().equals("org.modelingvalue.dclare.mps.IRuleAspect")) {
+      if (aspectClass == IRuleAspect.class) {
+        return (T) new RuleAspect();
+      }
     }
     if (aspectClass == StructureAspectDescriptor.class) {
       return aspectClass.cast(new HaskellFun.structure.StructureAspectDescriptor());

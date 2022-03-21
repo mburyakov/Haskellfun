@@ -5,6 +5,7 @@
     <classNode dependClassName="HaskellFun.behavior.BehaviorAspectDescriptor" />
     <classNode dependClassName="HaskellFun.constraints.ConstraintsAspectDescriptor" />
     <classNode dependClassName="HaskellFun.editor.EditorAspectDescriptorImpl" />
+    <classNode dependClassName="HaskellFun.rules.RuleAspect" />
     <classNode dependClassName="HaskellFun.structure.ConceptPresentationAspectImpl" />
     <classNode dependClassName="HaskellFun.structure.StructureAspectDescriptor" />
     <classNode dependClassName="HaskellFun.textGen.TextGenAspectDescriptor" />
@@ -25,6 +26,7 @@
     <classNode dependClassName="jetbrains.mps.smodel.runtime.StructureAspectDescriptor" />
     <classNode dependClassName="jetbrains.mps.text.rt.TextGenAspectDescriptor" />
     <classNode dependClassName="org.jetbrains.mps.openapi.language.SLanguage" />
+    <classNode dependClassName="org.modelingvalue.dclare.mps.IRuleAspect" />
     <classNode extendsClassName="jetbrains.mps.smodel.language.LanguageRuntime" />
   </dependency>
 </dependenciesRoot>

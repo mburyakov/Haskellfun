@@ -26,7 +26,7 @@ import org.modelingvalue.dclare.mps.SClass;
 public class StringLiteral_RuleSet implements IRuleSet {
 
 
-  public static final DAttribute<SNode, List<SNode>> STRINGTYPE_0 = DAttribute.of("6695265278857339542", "STRINGTYPE_0", true, true, false, -1, new Supplier<SNode>() {
+  public static final DAttribute<SNode, List<SNode>> STRINGTYPE_0 = DAttribute.of("6695265278857611380", "STRINGTYPE_0", true, true, false, -1, new Supplier<SNode>() {
     public SNode get() {
       return SNodeOperations.getNode("r:ab5919cc-ecf8-4597-a89d-d337fdd6e7ff(HaskellFun.rules)", "6695265278857339071");
     }
@@ -61,13 +61,14 @@ public class StringLiteral_RuleSet implements IRuleSet {
         }
       }));
       
-      DclareUtil.<SNode>setAttributeValue("6695265278857338346", "type", false, false, false, null, context, DclareUtil.dNode(pre_0, DclareUtil.<SNode,List<SNode>>getAttributeValue("6695265278857339542", "STRINGTYPE_0", true, true, false, -1, null, null, context), MetaAdapterFactory.getConcept(0xf3061a5392264cc5L, 0xa443f952ceaf5816L, 0x11d47da71ecL, "jetbrains.mps.baseLanguage.structure.StringType"), new _FunctionTypes._return_P0_E0<SNode>() {
+      DclareUtil.<SNode>setAttributeValue("6695265278857338346", "type", false, false, false, null, context, DclareUtil.dNode(pre_0, DclareUtil.<SNode,List<SNode>>getAttributeValue("6695265278857611380", "STRINGTYPE_0", true, true, false, -1, null, null, context), MetaAdapterFactory.getConcept(0xf3061a5392264cc5L, 0xa443f952ceaf5816L, 0x11d47da71ecL, "jetbrains.mps.baseLanguage.structure.StringType"), new _FunctionTypes._return_P0_E0<SNode>() {
         public SNode invoke() {
           return DNode.wrap(SConceptOperations.createNewNode(MetaAdapterFactory.getConcept(0xf3061a5392264cc5L, 0xa443f952ceaf5816L, 0x11d47da71ecL, "jetbrains.mps.baseLanguage.structure.StringType")));
         }
-      }, stringtype_0));;
+      }, stringtype_0));
+;
       
-      DclareUtil.<List<SNode>>setAttributeValue("6695265278857339542", "STRINGTYPE_0", true, true, false, null, context, (ListSequence.fromList(stringtype_0).isNotEmpty() ? stringtype_0 : null));;
+      DclareUtil.<List<SNode>>setAttributeValue("6695265278857611380", "STRINGTYPE_0", true, true, false, null, context, (ListSequence.fromList(stringtype_0).isNotEmpty() ? stringtype_0 : null));;
     }
   }
 

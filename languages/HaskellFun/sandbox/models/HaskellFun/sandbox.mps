@@ -7,13 +7,14 @@
     <use id="f3061a53-9226-4cc5-a443-f952ceaf5816" name="jetbrains.mps.baseLanguage" version="8" />
   </languages>
   <imports>
-    <import index="wyt6" ref="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.lang(JDK/)" implicit="true" />
+    <import index="wyt6" ref="6354ebe7-c22a-4a0f-ac54-50b52ab9b065/java:java.lang(JDK/)" />
   </imports>
   <registry>
     <language id="f3061a53-9226-4cc5-a443-f952ceaf5816" name="jetbrains.mps.baseLanguage">
       <concept id="1070475926800" name="jetbrains.mps.baseLanguage.structure.StringLiteral" flags="nn" index="Xl_RD">
         <property id="1070475926801" name="value" index="Xl_RC" />
       </concept>
+      <concept id="1225271177708" name="jetbrains.mps.baseLanguage.structure.StringType" flags="in" index="17QB3L" />
       <concept id="1068580320020" name="jetbrains.mps.baseLanguage.structure.IntegerConstant" flags="nn" index="3cmrfG">
         <property id="1068580320021" name="value" index="3cmrfH" />
       </concept>
@@ -27,6 +28,7 @@
       </concept>
       <concept id="3625473111731833586" name="HaskellFun.structure.EmptyLine" flags="ng" index="lOsT$" />
       <concept id="3625473111731872103" name="HaskellFun.structure.Declaration" flags="ng" index="lOAnL">
+        <child id="6695265278857406884" name="type" index="jDNnC" />
         <child id="3625473111731919189" name="value" index="lODR3" />
         <child id="3625473111732412761" name="parameters" index="lQynf" />
       </concept>
@@ -207,6 +209,7 @@
       <node concept="Xl_RD" id="39gh9oBystO" role="lODR3">
         <property role="Xl_RC" value="Hello, Frege MPS!" />
       </node>
+      <node concept="17QB3L" id="7wkTpdfeABC" role="jDNnC" />
     </node>
     <node concept="lOsT$" id="39gh9oBy_BT" role="lOAmu" />
     <node concept="1052rp" id="$j$Dh92F9M" role="lOAmu">
@@ -292,6 +295,7 @@
       <node concept="Xl_RD" id="7Jb9OYvWP$3" role="lODR3">
         <property role="Xl_RC" value="a" />
       </node>
+      <node concept="17QB3L" id="7wkTpdfeABB" role="jDNnC" />
     </node>
   </node>
 </model>

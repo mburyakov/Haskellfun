@@ -15,7 +15,7 @@
       <unit at="10,0,60,0" name="HaskellFun.structure.LanguageConceptSwitch" />
     </file>
     <file name="StructureAspectDescriptor.java">
-      <unit at="18,0,267,0" name="HaskellFun.structure.StructureAspectDescriptor" />
+      <unit at="18,0,268,0" name="HaskellFun.structure.StructureAspectDescriptor" />
     </file>
   </root>
   <root nodeRef="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/2925734019484094709">
@@ -39,20 +39,20 @@
     <file name="StructureAspectDescriptor.java">
       <node id="2925734019484094709" at="32,0,33,0" concept="1" trace="myConceptImport" />
       <node id="2925734019484094709" at="77,40,78,31" concept="4" />
-      <node id="2925734019484094709" at="226,64,227,151" concept="3" />
-      <node id="2925734019484094709" at="227,151,228,34" concept="0" />
-      <node id="2925734019484094709" at="228,34,229,105" concept="0" />
-      <node id="2925734019484094709" at="230,76,231,97" concept="0" />
-      <node id="2925734019484094709" at="231,97,232,17" concept="0" />
-      <node id="2925734019484095784" at="232,17,233,170" concept="0" />
-      <node id="2925734019484094709" at="233,170,234,22" concept="0" />
-      <node id="2925734019484094709" at="234,22,235,22" concept="4" />
-      <node id="2925734019484094709" at="226,0,237,0" concept="6" trace="createDescriptorForImport#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <node id="2925734019484094709" at="227,64,228,151" concept="3" />
+      <node id="2925734019484094709" at="228,151,229,34" concept="0" />
+      <node id="2925734019484094709" at="229,34,230,105" concept="0" />
+      <node id="2925734019484094709" at="231,76,232,97" concept="0" />
+      <node id="2925734019484094709" at="232,97,233,17" concept="0" />
+      <node id="2925734019484095784" at="233,17,234,170" concept="0" />
+      <node id="2925734019484094709" at="234,170,235,22" concept="0" />
+      <node id="2925734019484094709" at="235,22,236,22" concept="4" />
+      <node id="2925734019484094709" at="227,0,238,0" concept="6" trace="createDescriptorForImport#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
       <scope id="2925734019484094709" at="77,40,78,31" />
-      <scope id="2925734019484094709" at="226,64,235,22">
+      <scope id="2925734019484094709" at="227,64,236,22">
         <var name="b" id="2925734019484094709" />
       </scope>
-      <scope id="2925734019484094709" at="226,0,237,0" />
+      <scope id="2925734019484094709" at="227,0,238,0" />
     </file>
   </root>
   <root nodeRef="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111731787730">
@@ -75,20 +75,20 @@
     <file name="StructureAspectDescriptor.java">
       <node id="3625473111731787730" at="31,0,32,0" concept="1" trace="myConceptHaskellModule" />
       <node id="3625473111731787730" at="75,47,76,38" concept="4" />
-      <node id="3625473111731787730" at="216,71,217,158" concept="3" />
-      <node id="3625473111731787730" at="217,158,218,33" concept="0" />
-      <node id="3625473111731787730" at="218,33,219,71" concept="0" />
-      <node id="3625473111731787730" at="219,71,220,97" concept="0" />
-      <node id="3625473111731787730" at="220,97,221,17" concept="0" />
-      <node id="3625473111731872008" at="221,17,222,196" concept="0" />
-      <node id="3625473111731787730" at="222,196,223,22" concept="0" />
-      <node id="3625473111731787730" at="223,22,224,22" concept="4" />
-      <node id="3625473111731787730" at="216,0,226,0" concept="6" trace="createDescriptorForHaskellModule#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <node id="3625473111731787730" at="217,71,218,158" concept="3" />
+      <node id="3625473111731787730" at="218,158,219,33" concept="0" />
+      <node id="3625473111731787730" at="219,33,220,71" concept="0" />
+      <node id="3625473111731787730" at="220,71,221,97" concept="0" />
+      <node id="3625473111731787730" at="221,97,222,17" concept="0" />
+      <node id="3625473111731872008" at="222,17,223,196" concept="0" />
+      <node id="3625473111731787730" at="223,196,224,22" concept="0" />
+      <node id="3625473111731787730" at="224,22,225,22" concept="4" />
+      <node id="3625473111731787730" at="217,0,227,0" concept="6" trace="createDescriptorForHaskellModule#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
       <scope id="3625473111731787730" at="75,47,76,38" />
-      <scope id="3625473111731787730" at="216,71,224,22">
+      <scope id="3625473111731787730" at="217,71,225,22">
         <var name="b" id="3625473111731787730" />
       </scope>
-      <scope id="3625473111731787730" at="216,0,226,0" />
+      <scope id="3625473111731787730" at="217,0,227,0" />
     </file>
   </root>
   <root nodeRef="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111731833580">
@@ -110,17 +110,17 @@
     <file name="StructureAspectDescriptor.java">
       <node id="3625473111731833580" at="29,0,30,0" concept="1" trace="myConceptForm" />
       <node id="3625473111731833580" at="71,38,72,29" concept="4" />
-      <node id="3625473111731833580" at="202,62,203,149" concept="3" />
-      <node id="3625473111731833580" at="203,149,204,33" concept="0" />
-      <node id="3625473111731833580" at="204,33,205,97" concept="0" />
-      <node id="3625473111731833580" at="205,97,206,17" concept="0" />
-      <node id="3625473111731833580" at="206,17,207,22" concept="4" />
-      <node id="3625473111731833580" at="202,0,209,0" concept="6" trace="createDescriptorForForm#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <node id="3625473111731833580" at="203,62,204,149" concept="3" />
+      <node id="3625473111731833580" at="204,149,205,33" concept="0" />
+      <node id="3625473111731833580" at="205,33,206,97" concept="0" />
+      <node id="3625473111731833580" at="206,97,207,17" concept="0" />
+      <node id="3625473111731833580" at="207,17,208,22" concept="4" />
+      <node id="3625473111731833580" at="203,0,210,0" concept="6" trace="createDescriptorForForm#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
       <scope id="3625473111731833580" at="71,38,72,29" />
-      <scope id="3625473111731833580" at="202,62,207,22">
+      <scope id="3625473111731833580" at="203,62,208,22">
         <var name="b" id="3625473111731833580" />
       </scope>
-      <scope id="3625473111731833580" at="202,0,209,0" />
+      <scope id="3625473111731833580" at="203,0,210,0" />
     </file>
   </root>
   <root nodeRef="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111731833586">
@@ -143,19 +143,19 @@
     <file name="StructureAspectDescriptor.java">
       <node id="3625473111731833586" at="28,0,29,0" concept="1" trace="myConceptEmptyLine" />
       <node id="3625473111731833586" at="69,43,70,34" concept="4" />
-      <node id="3625473111731833586" at="193,67,194,154" concept="3" />
-      <node id="3625473111731833586" at="194,154,195,34" concept="0" />
-      <node id="3625473111731833586" at="195,34,196,105" concept="0" />
-      <node id="3625473111731833586" at="196,105,197,97" concept="0" />
-      <node id="3625473111731833586" at="197,97,198,17" concept="0" />
-      <node id="3625473111731833586" at="198,17,199,23" concept="0" />
-      <node id="3625473111731833586" at="199,23,200,22" concept="4" />
-      <node id="3625473111731833586" at="193,0,202,0" concept="6" trace="createDescriptorForEmptyLine#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <node id="3625473111731833586" at="194,67,195,154" concept="3" />
+      <node id="3625473111731833586" at="195,154,196,34" concept="0" />
+      <node id="3625473111731833586" at="196,34,197,105" concept="0" />
+      <node id="3625473111731833586" at="197,105,198,97" concept="0" />
+      <node id="3625473111731833586" at="198,97,199,17" concept="0" />
+      <node id="3625473111731833586" at="199,17,200,23" concept="0" />
+      <node id="3625473111731833586" at="200,23,201,22" concept="4" />
+      <node id="3625473111731833586" at="194,0,203,0" concept="6" trace="createDescriptorForEmptyLine#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
       <scope id="3625473111731833586" at="69,43,70,34" />
-      <scope id="3625473111731833586" at="193,67,200,22">
+      <scope id="3625473111731833586" at="194,67,201,22">
         <var name="b" id="3625473111731833586" />
       </scope>
-      <scope id="3625473111731833586" at="193,0,202,0" />
+      <scope id="3625473111731833586" at="194,0,203,0" />
     </file>
   </root>
   <root nodeRef="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111731872103">
@@ -186,14 +186,15 @@
       <node id="3625473111731872103" at="157,97,158,17" concept="0" />
       <node id="3625473111732412761" at="158,17,159,202" concept="0" />
       <node id="3625473111731919189" at="159,202,160,193" concept="0" />
-      <node id="3625473111731872103" at="160,193,161,26" concept="0" />
-      <node id="3625473111731872103" at="161,26,162,22" concept="4" />
-      <node id="3625473111731872103" at="152,0,164,0" concept="6" trace="createDescriptorForDeclaration#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <node id="6695265278857406884" at="160,193,161,193" concept="0" />
+      <node id="3625473111731872103" at="161,193,162,26" concept="0" />
+      <node id="3625473111731872103" at="162,26,163,22" concept="4" />
+      <node id="3625473111731872103" at="152,0,165,0" concept="6" trace="createDescriptorForDeclaration#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
       <scope id="3625473111731872103" at="61,45,62,36" />
-      <scope id="3625473111731872103" at="152,69,162,22">
+      <scope id="3625473111731872103" at="152,69,163,22">
         <var name="b" id="3625473111731872103" />
       </scope>
-      <scope id="3625473111731872103" at="152,0,164,0" />
+      <scope id="3625473111731872103" at="152,0,165,0" />
     </file>
   </root>
   <root nodeRef="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111732376367">
@@ -216,20 +217,20 @@
     <file name="StructureAspectDescriptor.java">
       <node id="3625473111732376367" at="27,0,28,0" concept="1" trace="myConceptDoExpression" />
       <node id="3625473111732376367" at="67,46,68,37" concept="4" />
-      <node id="3625473111732376367" at="182,70,183,157" concept="3" />
-      <node id="3625473111732376367" at="183,157,184,34" concept="0" />
-      <node id="3625473111732376367" at="184,34,185,121" concept="0" />
-      <node id="3625473111732376367" at="186,76,187,97" concept="0" />
-      <node id="3625473111732376367" at="187,97,188,17" concept="0" />
-      <node id="3625473111732402441" at="188,17,189,203" concept="0" />
-      <node id="3625473111732376367" at="189,203,190,18" concept="0" />
-      <node id="3625473111732376367" at="190,18,191,22" concept="4" />
-      <node id="3625473111732376367" at="182,0,193,0" concept="6" trace="createDescriptorForDoExpression#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <node id="3625473111732376367" at="183,70,184,157" concept="3" />
+      <node id="3625473111732376367" at="184,157,185,34" concept="0" />
+      <node id="3625473111732376367" at="185,34,186,121" concept="0" />
+      <node id="3625473111732376367" at="187,76,188,97" concept="0" />
+      <node id="3625473111732376367" at="188,97,189,17" concept="0" />
+      <node id="3625473111732402441" at="189,17,190,203" concept="0" />
+      <node id="3625473111732376367" at="190,203,191,18" concept="0" />
+      <node id="3625473111732376367" at="191,18,192,22" concept="4" />
+      <node id="3625473111732376367" at="183,0,194,0" concept="6" trace="createDescriptorForDoExpression#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
       <scope id="3625473111732376367" at="67,46,68,37" />
-      <scope id="3625473111732376367" at="182,70,191,22">
+      <scope id="3625473111732376367" at="183,70,192,22">
         <var name="b" id="3625473111732376367" />
       </scope>
-      <scope id="3625473111732376367" at="182,0,193,0" />
+      <scope id="3625473111732376367" at="183,0,194,0" />
     </file>
   </root>
   <root nodeRef="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111732402353">
@@ -251,21 +252,21 @@
     <file name="StructureAspectDescriptor.java">
       <node id="3625473111732402353" at="30,0,31,0" concept="1" trace="myConceptHaskellExpression" />
       <node id="3625473111732402353" at="73,51,74,42" concept="4" />
-      <node id="3625473111732402353" at="175,121,176,76" concept="0" />
-      <node id="3625473111732402353" at="185,121,186,76" concept="0" />
-      <node id="3625473111732402353" at="209,75,210,162" concept="3" />
-      <node id="3625473111732402353" at="210,162,211,19" concept="0" />
-      <node id="3625473111732402353" at="211,19,212,97" concept="0" />
-      <node id="3625473111732402353" at="212,97,213,17" concept="0" />
-      <node id="3625473111732402353" at="213,17,214,22" concept="4" />
-      <node id="3625473111732402353" at="229,105,230,76" concept="0" />
-      <node id="3625473111732402353" at="240,121,241,76" concept="0" />
-      <node id="3625473111732402353" at="209,0,216,0" concept="6" trace="createDescriptorForHaskellExpression#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <node id="3625473111732402353" at="176,121,177,76" concept="0" />
+      <node id="3625473111732402353" at="186,121,187,76" concept="0" />
+      <node id="3625473111732402353" at="210,75,211,162" concept="3" />
+      <node id="3625473111732402353" at="211,162,212,19" concept="0" />
+      <node id="3625473111732402353" at="212,19,213,97" concept="0" />
+      <node id="3625473111732402353" at="213,97,214,17" concept="0" />
+      <node id="3625473111732402353" at="214,17,215,22" concept="4" />
+      <node id="3625473111732402353" at="230,105,231,76" concept="0" />
+      <node id="3625473111732402353" at="241,121,242,76" concept="0" />
+      <node id="3625473111732402353" at="210,0,217,0" concept="6" trace="createDescriptorForHaskellExpression#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
       <scope id="3625473111732402353" at="73,51,74,42" />
-      <scope id="3625473111732402353" at="209,75,214,22">
+      <scope id="3625473111732402353" at="210,75,215,22">
         <var name="b" id="3625473111732402353" />
       </scope>
-      <scope id="3625473111732402353" at="209,0,216,0" />
+      <scope id="3625473111732402353" at="210,0,217,0" />
     </file>
   </root>
   <root nodeRef="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111732402521">
@@ -288,20 +289,20 @@
     <file name="StructureAspectDescriptor.java">
       <node id="3625473111732402521" at="33,0,34,0" concept="1" trace="myConceptPrintln" />
       <node id="3625473111732402521" at="79,41,80,32" concept="4" />
-      <node id="3625473111732402521" at="237,65,238,152" concept="3" />
-      <node id="3625473111732402521" at="238,152,239,34" concept="0" />
-      <node id="3625473111732402521" at="239,34,240,121" concept="0" />
-      <node id="3625473111732402521" at="241,76,242,97" concept="0" />
-      <node id="3625473111732402521" at="242,97,243,17" concept="0" />
-      <node id="3625473111732402539" at="243,17,244,195" concept="0" />
-      <node id="3625473111732402521" at="244,195,245,23" concept="0" />
-      <node id="3625473111732402521" at="245,23,246,22" concept="4" />
-      <node id="3625473111732402521" at="237,0,248,0" concept="6" trace="createDescriptorForPrintln#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <node id="3625473111732402521" at="238,65,239,152" concept="3" />
+      <node id="3625473111732402521" at="239,152,240,34" concept="0" />
+      <node id="3625473111732402521" at="240,34,241,121" concept="0" />
+      <node id="3625473111732402521" at="242,76,243,97" concept="0" />
+      <node id="3625473111732402521" at="243,97,244,17" concept="0" />
+      <node id="3625473111732402539" at="244,17,245,195" concept="0" />
+      <node id="3625473111732402521" at="245,195,246,23" concept="0" />
+      <node id="3625473111732402521" at="246,23,247,22" concept="4" />
+      <node id="3625473111732402521" at="238,0,249,0" concept="6" trace="createDescriptorForPrintln#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
       <scope id="3625473111732402521" at="79,41,80,32" />
-      <scope id="3625473111732402521" at="237,65,246,22">
+      <scope id="3625473111732402521" at="238,65,247,22">
         <var name="b" id="3625473111732402521" />
       </scope>
-      <scope id="3625473111732402521" at="237,0,248,0" />
+      <scope id="3625473111732402521" at="238,0,249,0" />
     </file>
   </root>
   <root nodeRef="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111732402610">
@@ -324,19 +325,19 @@
     <file name="StructureAspectDescriptor.java">
       <node id="3625473111732402610" at="26,0,27,0" concept="1" trace="myConceptDeclarationReference" />
       <node id="3625473111732402610" at="65,54,66,45" concept="4" />
-      <node id="3625473111732402610" at="172,78,173,165" concept="3" />
-      <node id="3625473111732402610" at="173,165,174,34" concept="0" />
-      <node id="3625473111732402610" at="174,34,175,121" concept="0" />
-      <node id="3625473111732402610" at="176,76,177,97" concept="0" />
-      <node id="3625473111732402610" at="177,97,178,17" concept="0" />
-      <node id="3625473111732402613" at="178,17,179,174" concept="0" />
-      <node id="3625473111732402610" at="179,174,180,22" concept="4" />
-      <node id="3625473111732402610" at="172,0,182,0" concept="6" trace="createDescriptorForDeclarationReference#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <node id="3625473111732402610" at="173,78,174,165" concept="3" />
+      <node id="3625473111732402610" at="174,165,175,34" concept="0" />
+      <node id="3625473111732402610" at="175,34,176,121" concept="0" />
+      <node id="3625473111732402610" at="177,76,178,97" concept="0" />
+      <node id="3625473111732402610" at="178,97,179,17" concept="0" />
+      <node id="3625473111732402613" at="179,17,180,174" concept="0" />
+      <node id="3625473111732402610" at="180,174,181,22" concept="4" />
+      <node id="3625473111732402610" at="173,0,183,0" concept="6" trace="createDescriptorForDeclarationReference#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
       <scope id="3625473111732402610" at="65,54,66,45" />
-      <scope id="3625473111732402610" at="172,78,180,22">
+      <scope id="3625473111732402610" at="173,78,181,22">
         <var name="b" id="3625473111732402610" />
       </scope>
-      <scope id="3625473111732402610" at="172,0,182,0" />
+      <scope id="3625473111732402610" at="173,0,183,0" />
     </file>
   </root>
   <root nodeRef="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/3625473111732410973">
@@ -359,18 +360,18 @@
     <file name="StructureAspectDescriptor.java">
       <node id="3625473111732410973" at="25,0,26,0" concept="1" trace="myConceptDeclarationParameter" />
       <node id="3625473111732410973" at="63,54,64,45" concept="4" />
-      <node id="3625473111732410973" at="164,78,165,165" concept="3" />
-      <node id="3625473111732410973" at="165,165,166,34" concept="0" />
-      <node id="3625473111732410973" at="166,34,167,71" concept="0" />
-      <node id="3625473111732410973" at="167,71,168,97" concept="0" />
-      <node id="3625473111732410973" at="168,97,169,17" concept="0" />
-      <node id="3625473111732410973" at="169,17,170,22" concept="4" />
-      <node id="3625473111732410973" at="164,0,172,0" concept="6" trace="createDescriptorForDeclarationParameter#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <node id="3625473111732410973" at="165,78,166,165" concept="3" />
+      <node id="3625473111732410973" at="166,165,167,34" concept="0" />
+      <node id="3625473111732410973" at="167,34,168,71" concept="0" />
+      <node id="3625473111732410973" at="168,71,169,97" concept="0" />
+      <node id="3625473111732410973" at="169,97,170,17" concept="0" />
+      <node id="3625473111732410973" at="170,17,171,22" concept="4" />
+      <node id="3625473111732410973" at="165,0,173,0" concept="6" trace="createDescriptorForDeclarationParameter#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
       <scope id="3625473111732410973" at="63,54,64,45" />
-      <scope id="3625473111732410973" at="164,78,170,22">
+      <scope id="3625473111732410973" at="165,78,171,22">
         <var name="b" id="3625473111732410973" />
       </scope>
-      <scope id="3625473111732410973" at="164,0,172,0" />
+      <scope id="3625473111732410973" at="165,0,173,0" />
     </file>
   </root>
   <root nodeRef="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/654027536476910669">
@@ -469,19 +470,19 @@
     <file name="StructureAspectDescriptor.java">
       <node id="654027536476934998" at="35,0,36,0" concept="1" trace="myConceptTypeVariable" />
       <node id="654027536476934998" at="83,46,84,37" concept="4" />
-      <node id="654027536476934998" at="257,70,258,156" concept="3" />
-      <node id="654027536476934998" at="258,156,259,34" concept="0" />
-      <node id="654027536476934998" at="259,34,260,71" concept="0" />
-      <node id="654027536476934998" at="260,71,261,96" concept="0" />
-      <node id="654027536476934998" at="261,96,262,17" concept="0" />
-      <node id="654027536476934998" at="262,17,263,29" concept="0" />
-      <node id="654027536476934998" at="263,29,264,22" concept="4" />
-      <node id="654027536476934998" at="257,0,266,0" concept="6" trace="createDescriptorForTypeVariable#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <node id="654027536476934998" at="258,70,259,156" concept="3" />
+      <node id="654027536476934998" at="259,156,260,34" concept="0" />
+      <node id="654027536476934998" at="260,34,261,71" concept="0" />
+      <node id="654027536476934998" at="261,71,262,96" concept="0" />
+      <node id="654027536476934998" at="262,96,263,17" concept="0" />
+      <node id="654027536476934998" at="263,17,264,29" concept="0" />
+      <node id="654027536476934998" at="264,29,265,22" concept="4" />
+      <node id="654027536476934998" at="258,0,267,0" concept="6" trace="createDescriptorForTypeVariable#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
       <scope id="654027536476934998" at="83,46,84,37" />
-      <scope id="654027536476934998" at="257,70,264,22">
+      <scope id="654027536476934998" at="258,70,265,22">
         <var name="b" id="654027536476934998" />
       </scope>
-      <scope id="654027536476934998" at="257,0,266,0" />
+      <scope id="654027536476934998" at="258,0,267,0" />
     </file>
   </root>
   <root nodeRef="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/654027536477435677">
@@ -573,19 +574,19 @@
     <file name="StructureAspectDescriptor.java">
       <node id="654027536477954859" at="34,0,35,0" concept="1" trace="myConceptRecordEntry" />
       <node id="654027536477954859" at="81,45,82,36" concept="4" />
-      <node id="654027536477954859" at="248,69,249,155" concept="3" />
-      <node id="654027536477954859" at="249,155,250,34" concept="0" />
-      <node id="654027536477954859" at="250,34,251,71" concept="0" />
-      <node id="654027536477954859" at="251,71,252,96" concept="0" />
-      <node id="654027536477954859" at="252,96,253,17" concept="0" />
-      <node id="654027536477954883" at="253,17,254,190" concept="0" />
-      <node id="654027536477954859" at="254,190,255,22" concept="4" />
-      <node id="654027536477954859" at="248,0,257,0" concept="6" trace="createDescriptorForRecordEntry#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <node id="654027536477954859" at="249,69,250,155" concept="3" />
+      <node id="654027536477954859" at="250,155,251,34" concept="0" />
+      <node id="654027536477954859" at="251,34,252,71" concept="0" />
+      <node id="654027536477954859" at="252,71,253,96" concept="0" />
+      <node id="654027536477954859" at="253,96,254,17" concept="0" />
+      <node id="654027536477954883" at="254,17,255,190" concept="0" />
+      <node id="654027536477954859" at="255,190,256,22" concept="4" />
+      <node id="654027536477954859" at="249,0,258,0" concept="6" trace="createDescriptorForRecordEntry#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
       <scope id="654027536477954859" at="81,45,82,36" />
-      <scope id="654027536477954859" at="248,69,255,22">
+      <scope id="654027536477954859" at="249,69,256,22">
         <var name="b" id="654027536477954859" />
       </scope>
-      <scope id="654027536477954859" at="248,0,257,0" />
+      <scope id="654027536477954859" at="249,0,258,0" />
     </file>
   </root>
   <root nodeRef="r:abc540d4-3f70-4969-8e52-358d4ba9345e(HaskellFun.structure)/654027536478709469">
